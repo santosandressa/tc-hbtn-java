@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2- Print PI" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2- Print PI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +40,16 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintStringConcat">
+  <component name="RunManager" selected="Application.PrintFormatacaoNumeros">
     <configuration name="PrintFloatVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFloatVariable" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFormatacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintFormatacaoNumeros" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,26 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trace.Println" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trace.Println" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintFormatacaoNumeros" />
         <item itemvalue="Application.PrintStringConcat" />
         <item itemvalue="Application.PrintStringVariable" />
         <item itemvalue="Application.PrintFloatVariable" />
         <item itemvalue="Application.PrintIntegerVariable" />
-        <item itemvalue="Application.trace.Println" />
       </list>
     </recent_temporary>
   </component>
