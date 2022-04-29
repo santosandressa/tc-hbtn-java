@@ -38,7 +38,14 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.trace.Println">
+  <component name="RunManager" selected="Application.PrintIntegerVariable">
+    <configuration name="PrintIntegerVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintIntegerVariable" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Println" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Println" />
       <module name="tc-hbtn-java" />
@@ -61,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintIntegerVariable" />
         <item itemvalue="Application.trace.Println" />
         <item itemvalue="Application.Println" />
       </list>
