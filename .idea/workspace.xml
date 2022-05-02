@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1 - números pares">
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2 - Letra Maiúscula">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,14 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.Numero">
+    <configuration name="Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numero" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Numeros0a99" />
       <module name="tc-hbtn-java" />
@@ -62,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintStringConcat" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="tc-hbtn-java" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numero" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.NumerosPares" />
         <item itemvalue="Application.Numeros0a99" />
         <item itemvalue="Application.PrintFormatacaoNumeros" />
-        <item itemvalue="Application.PrintStringConcat" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651501150085</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task 2 - Letra Maiúscula">
+      <created>1651502996849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651502996849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task 2 - Letra Maiúscula">
+      <created>1651503003480</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651503003480</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +199,7 @@
     <MESSAGE value="task 5 - Print Formatando números" />
     <MESSAGE value="task 0 - numeros 0 a 99" />
     <MESSAGE value="task 1 - números pares" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 - números pares" />
+    <MESSAGE value="task 2 - Letra Maiúscula" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 - Letra Maiúscula" />
   </component>
 </project>
