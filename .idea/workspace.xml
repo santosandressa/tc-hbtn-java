@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 5 - Print Formatando números" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - numeros 0 a 99">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,14 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintFormatacaoNumeros">
+  <component name="RunManager" selected="Application.Numeros0a99">
+    <configuration name="Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numeros0a99" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintFloatVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFloatVariable" />
       <module name="tc-hbtn-java" />
@@ -48,13 +57,6 @@
     </configuration>
     <configuration name="PrintFormatacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFormatacaoNumeros" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintIntegerVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintIntegerVariable" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numeros0a99" />
         <item itemvalue="Application.PrintFormatacaoNumeros" />
         <item itemvalue="Application.PrintStringConcat" />
         <item itemvalue="Application.PrintStringVariable" />
         <item itemvalue="Application.PrintFloatVariable" />
-        <item itemvalue="Application.PrintIntegerVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651270952000</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="task 0 - numeros 0 a 99">
+      <created>1651499724993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651499724993</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task 0 - numeros 0 a 99">
+      <created>1651499749407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651499749407</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +169,7 @@
     <MESSAGE value="task 0 - println" />
     <MESSAGE value="task 2- Print PI" />
     <MESSAGE value="task 5 - Print Formatando números" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5 - Print Formatando números" />
+    <MESSAGE value="task 0 - numeros 0 a 99" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0 - numeros 0 a 99" />
   </component>
 </project>
