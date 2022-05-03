@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - Salário">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
     </list>
@@ -22,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="28U2p3mfuZ7B5VtN1HKY0HD4OXA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -113,7 +118,7 @@
       <workItem from="1651509757917" duration="102000" />
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
-      <workItem from="1651597594962" duration="6204000" />
+      <workItem from="1651597594962" duration="7742000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -234,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651603509056</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="task 0 - Salário">
+      <created>1651603839676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651603839676</updated>
+    </task>
+    <task id="LOCAL-00019" summary="task 0 - Salário">
+      <created>1651604026981</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651604026981</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
