@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - Soma">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - Divisão inteira">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/tc-hbtn-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Caractere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Numero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Numeros0a99.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/NumerosPares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintFloatVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintFormatacaoNumeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintIntegerVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintStringConcat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/trace/Println.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +101,7 @@
       <workItem from="1651509524336" duration="225000" />
       <workItem from="1651509757917" duration="102000" />
       <workItem from="1651509896758" duration="118000" />
-      <workItem from="1651579863050" duration="947000" />
+      <workItem from="1651579863050" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -219,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651503914037</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task 0 - Divisão inteira">
+      <created>1651581068539</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651581068539</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task 0 - Divisão inteira">
+      <created>1651581076259</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651581076259</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +240,8 @@
     <MESSAGE value="task 1 - números pares" />
     <MESSAGE value="task 2 - Letra Maiúscula" />
     <MESSAGE value="task 3 - Soma" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3 - Soma" />
+    <MESSAGE value="task 0 - Divisão inteira" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0 - Divisão inteira" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
