@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - Divisão inteira">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03/salario/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01/maiusculo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x01/maiusculo/Program3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01/somar/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x01/somar/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Numero1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/quadrado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/quadrado/Program4.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - Salário">
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +113,7 @@
       <workItem from="1651509757917" duration="102000" />
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
-      <workItem from="1651597594962" duration="5891000" />
+      <workItem from="1651597594962" duration="6204000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -237,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651581076259</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task 0 - Salário">
+      <created>1651603509056</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651603509056</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +260,8 @@
     <MESSAGE value="task 2 - Letra Maiúscula" />
     <MESSAGE value="task 3 - Soma" />
     <MESSAGE value="task 0 - Divisão inteira" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0 - Divisão inteira" />
+    <MESSAGE value="task 0 - Salário" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0 - Salário" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
