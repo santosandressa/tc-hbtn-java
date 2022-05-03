@@ -1,4 +1,3 @@
-package testes;
 public class Program {
     public static void main(String[] args) {
        double lado = -3;

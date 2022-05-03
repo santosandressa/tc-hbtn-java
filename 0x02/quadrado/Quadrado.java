@@ -1,5 +1,3 @@
-package testes;
-
 public class Quadrado {
     public static double area(double lado) {
         double resultado = 0;
