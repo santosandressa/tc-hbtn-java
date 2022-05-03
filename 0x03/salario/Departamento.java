@@ -14,6 +14,9 @@ public class Departamento {
         return valorAtingidoMeta;
     }
 
+    public Departamento() {
+    }
+
     public Departamento(double valorMeta, double valorAtingidoMeta) {
         this.valorMeta = valorMeta;
         this.valorAtingidoMeta = valorAtingidoMeta;

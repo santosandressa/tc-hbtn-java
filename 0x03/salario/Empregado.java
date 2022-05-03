@@ -7,6 +7,9 @@ public class Empregado {
     public double getSalarioFixo() {
         return salarioFixo;
     }
+
+    public Empregado(){}
+
     public Empregado(double salarioFixo) {
         this.salarioFixo = salarioFixo;
     }
