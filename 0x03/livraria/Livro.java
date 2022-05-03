@@ -1,8 +1,5 @@
 
 
-import livraria.exceptions.AutorInvalidoException;
-import livraria.exceptions.LivroInvalidoEception;
-
 public class Livro {
     private String titulo;
     private String autor;
