@@ -1,3 +1,5 @@
+package contas_especiais;
+
 public class ContaBancariaControlada extends ContaBancariaBasica{
 
     private double saldoMinimo;
