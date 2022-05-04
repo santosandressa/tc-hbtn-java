@@ -1,5 +1,7 @@
-import exceptions.AutorInvalidoException;
-import exceptions.LivroInvalidoException;
+package livraria;
+
+import livraria.exceptions.AutorInvalidoException;
+import livraria.exceptions.LivroInvalidoException;
 
 public class Livro {
     private String titulo;
@@ -27,7 +29,7 @@ public class Livro {
 
     public void setAutor(String autor) throws AutorInvalidoException {
             if (!autor.contains(" ")) {
-                throw new AutorInvalidoException("Nome de autor invalido");
+                throw new AutorInvalidoException("Titulo de livro invalido");
             }
         this.autor = autor;
     }
