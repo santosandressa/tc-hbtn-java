@@ -1,3 +1,5 @@
+package salario;
+
 public class Empregado {
 
     private double salarioFixo;

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Conta Bancária Controlada/Tarifada" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Conta Bancária Controlada/Tarifada">
+      <change afterPath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x04/personagem/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +60,9 @@
     "jdk.selected.JAVA_MODULE": "temurin-11",
     "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/0x02/divisao",
     "last_opened_file_path": "/home/andressas/Documentos/curso-java-basico",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -49,20 +74,7 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.contas_especiais.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="salario.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="salario.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.personagem.Program">
     <configuration name="conta_basica.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conta_basica.Program" />
       <module name="tc-hbtn-java" />
@@ -115,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="personagem.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="personagem.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personagem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.personagem.Program" />
+        <item itemvalue="Application.conta_basica.Program" />
         <item itemvalue="Application.contas_especiais.Program" />
         <item itemvalue="Application.contas_especias.Program" />
-        <item itemvalue="Application.conta_basica.Program" />
         <item itemvalue="Application.livraria.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +163,7 @@
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
-      <workItem from="1651665820832" duration="16258000" />
+      <workItem from="1651665820832" duration="19990000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -406,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651684045485</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651684166486</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1651684166486</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
