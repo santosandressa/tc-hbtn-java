@@ -1,3 +1,4 @@
+package encapsulamento;
 
 public class PersonagemGame {
 

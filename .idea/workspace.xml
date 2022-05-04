@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - personagem game">
-      <change afterPath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1 - encapsulamento">
+      <change afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x04/metodos/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,20 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programa">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encapsulamento.Programa" />
       <module name="tc-hbtn-java" />
@@ -96,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contas_especias.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contas_especias.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contas_especiais.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="personagem.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="personagem.Program" />
       <module name="tc-hbtn-java" />
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Programa" />
         <item itemvalue="Application.personagem.Program" />
         <item itemvalue="Application.conta_basica.Program" />
         <item itemvalue="Application.contas_especiais.Program" />
-        <item itemvalue="Application.contas_especias.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +147,7 @@
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
-      <workItem from="1651665820832" duration="20430000" />
+      <workItem from="1651665820832" duration="21197000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -427,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651688074827</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="task 1 - encapsulamento">
+      <created>1651688563546</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1651688563546</updated>
+    </task>
+    <task id="LOCAL-00042" summary="task 1 - encapsulamento">
+      <created>1651688662133</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1651688662133</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +474,8 @@
     <MESSAGE value="task 2 - Conta Bancária Básica" />
     <MESSAGE value="3. Conta Bancária Controlada/Tarifada" />
     <MESSAGE value="task 0 - personagem game" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0 - personagem game" />
+    <MESSAGE value="task 1 - encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 - encapsulamento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
