@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Conta Bancária Controlada/Tarifada">
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x03/livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +140,7 @@
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
-      <workItem from="1651665820832" duration="15644000" />
+      <workItem from="1651665820832" duration="15947000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -386,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651683242452</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651683639514</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651683639514</updated>
+    </task>
+    <task id="LOCAL-00035" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651683763228</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651683763228</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

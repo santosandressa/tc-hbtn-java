@@ -1,6 +1,4 @@
-
-
-import livraria.Livro;
+package livraria;
 
 import java.util.Locale;
 
