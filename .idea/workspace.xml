@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Conta Bancária Controlada/Tarifada">
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Conta Bancária Controlada/Tarifada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +138,7 @@
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
-      <workItem from="1651665820832" duration="15947000" />
+      <workItem from="1651665820832" duration="16258000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -387,7 +385,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651683763228</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651683830185</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1651683830185</updated>
+    </task>
+    <task id="LOCAL-00037" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651683970531</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1651683970531</updated>
+    </task>
+    <task id="LOCAL-00038" summary="3. Conta Bancária Controlada/Tarifada">
+      <created>1651684045485</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651684045485</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
