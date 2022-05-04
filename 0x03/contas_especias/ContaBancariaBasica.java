@@ -1,9 +1,6 @@
-package conta_basica;
-
-import conta_basica.exceptions.OperacaoInvalidaException;
+import exceptions.OperacaoInvalidaException;
 
 public class ContaBancariaBasica {
-
     private String numeracao;
     private double saldo;
     private double taxaJurosAnual;
@@ -26,6 +23,10 @@ public class ContaBancariaBasica {
         return taxaJurosAnual;
     }
 
+
+    public void setSaldo(double saldo) {
+        this.saldo = saldo;
+    }
 
     public void depositar(double valor) throws OperacaoInvalidaException {
         if (valor <= 0){
@@ -53,18 +54,17 @@ public class ContaBancariaBasica {
         if (saldoPorcentagem < taxaReal){
             return saldoPorcentagem;
         }
-           return taxaReal;
+        return taxaReal;
     }
 
     public double calcularJurosMensal(){
         if (saldo <= 0){
             this.taxaJurosAnual = 0;
         }
-           return ((this.taxaJurosAnual / 12)  * saldo) / 100;
+        return ((this.taxaJurosAnual / 12)  * saldo) / 100;
     }
 
     public void aplicarAtualizacaoMensal(){
-       this.saldo =  (this.saldo - calcularTarifaMensal()) + calcularJurosMensal();
+        this.saldo =  (this.saldo - calcularTarifaMensal()) + calcularJurosMensal();
     }
-
 }
