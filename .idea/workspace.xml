@@ -98,7 +98,7 @@
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contas_especias.*" />
+          <option name="PATTERN" value="contas_especiais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
