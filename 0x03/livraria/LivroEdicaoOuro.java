@@ -1,8 +1,8 @@
-
+package livraria;
 
 import exceptions.AutorInvalidoException;
 import exceptions.LivroInvalidoException;
-import Livro;
+
 
 public class LivroEdicaoOuro extends Livro {
 

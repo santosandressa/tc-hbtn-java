@@ -1,3 +1,4 @@
+package salario;
 
 public class Empregado {
 
