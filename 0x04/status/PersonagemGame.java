@@ -1,16 +1,21 @@
-package metodos;
 
 public class PersonagemGame {
 
     private int saudeAtual;
     private String nome;
 
+    private String status;
+
     public int getSaudeAtual() {
         return saudeAtual;
     }
 
     public void setSaudeAtual(int saudeAtual) {
-        this.saudeAtual = saudeAtual;
+        if (this.saudeAtual > 0) {
+            this.status = "vivo";
+        } else {
+            this.status = "morto";
+        }
     }
 
     public String getNome() {
@@ -21,12 +26,17 @@ public class PersonagemGame {
         this.nome = nome;
     }
 
+    public String getStatus() {
+        return status;
+    }
+
     public int tomarDano(int quantidadeDeDano){
         this.saudeAtual -= quantidadeDeDano;
 
         if (this.saudeAtual <= 0){
             this.saudeAtual = 0;
         }
+        setSaudeAtual(this.saudeAtual);
 
         return this.saudeAtual;
     }
@@ -38,7 +48,8 @@ public class PersonagemGame {
             this.saudeAtual = 100;
         }
 
+        setSaudeAtual(this.saudeAtual);
+
         return  this.saudeAtual;
     }
-
 }
