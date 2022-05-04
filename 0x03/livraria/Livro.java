@@ -1,11 +1,12 @@
-
+import livraria.exceptions.AutorInvalidoException;
+import livraria.exceptions.LivroInvalidoException;
 
 public class Livro {
     private String titulo;
     private String autor;
     private double preco;
 
-    public Livro(String titulo, String autor, double preco) throws AutorInvalidoException, LivroInvalidoEception {
+    public Livro(String titulo, String autor, double preco) throws AutorInvalidoException, LivroInvalidoException {
         Livro livro = new Livro();
         this.titulo = livro.getTitulo();
         this.autor = livro.getAutor();
@@ -17,9 +18,9 @@ public class Livro {
 
     public Livro(){}
 
-    public void setTitulo(String titulo) throws LivroInvalidoEception {
+    public void setTitulo(String titulo) throws LivroInvalidoException {
             if (titulo.length() < 3 || titulo.isEmpty()) {
-                throw new LivroInvalidoEception("Titulo de livro invalido");
+                throw new LivroInvalidoException("Titulo de livro invalido");
             }
         this.titulo = titulo;
     }
@@ -31,9 +32,9 @@ public class Livro {
         this.autor = autor;
     }
 
-    public void setPreco(double preco) throws LivroInvalidoEception {
+    public void setPreco(double preco) throws LivroInvalidoException {
             if (preco <= 0) {
-                throw new LivroInvalidoEception("Preco de livro invalido");
+                throw new LivroInvalidoException("Preco de livro invalido");
             }
         this.preco = preco;
     }
