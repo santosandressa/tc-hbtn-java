@@ -1,4 +1,3 @@
-package salario;
 
 import java.util.Locale;
 
