@@ -27,7 +27,7 @@ public class Livro {
 
     public void setAutor(String autor) throws AutorInvalidoException {
             if (!autor.contains(" ")) {
-                throw new AutorInvalidoException("Titulo de livro invalido");
+                throw new AutorInvalidoException("Nome de autor invalido");
             }
         this.autor = autor;
     }
