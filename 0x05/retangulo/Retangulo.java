@@ -1,3 +1,4 @@
+package retangulo;
 
 public class Retangulo extends FormaGeometrica {
 

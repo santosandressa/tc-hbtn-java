@@ -1,4 +1,4 @@
-import Retangulo;
+package abstrata;
 
 public class Quadrado extends Retangulo {
 
