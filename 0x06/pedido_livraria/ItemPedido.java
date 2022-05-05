@@ -1,4 +1,3 @@
-
 import produtos.Produto;
 
 public class ItemPedido {
@@ -7,10 +6,12 @@ public class ItemPedido {
 
     private Produto produto;
 
-    public ItemPedido(int quantidade, Produto produto) {
-        this.quantidade = quantidade;
-        this.produto = produto;
-    }
+   public ItemPedido(Produto produto, int quantidade){
+       this.produto = produto;
+       this.quantidade = quantidade;
+   }
+
+    public ItemPedido(){}
 
     public int getQuantidade() {
         return quantidade;

@@ -1,9 +1,13 @@
+
+import produtos.Dvd;
+import produtos.Livro;
+
 import java.util.Locale;
 
 public class Program {
     public static void main(String[] args) {
         Locale.setDefault(new Locale("pt", "BR"));
-        produtos.Livro livro1 = new produtos.Livro("Duna", 2017, "Brasil", 56.30, 680, "Frank Herbert", 1);
+        Lprodutos.Livro livro1 = new produtos.Livro("Duna", 2017, "Brasil", 56.30, 680, "Frank Herbert", 1);
         produtos.Livro livro2 = new produtos.Livro("Um de nós está mentindo", 2018, "Brasil", 34.93, 384,
                 "Karen Mcmanus", 1);
         produtos.Livro livro3 = new produtos.Livro("Mindset Milionário", 2021, "Brasil", 31.70, 272,
@@ -50,16 +54,15 @@ public class Program {
 
         // Pedido 4
         ItemPedido[] itensPedido4 = new ItemPedido[] {
-                new ItemPedido(1, livro2),
-                new ItemPedido(1,livro2),
-                new ItemPedido(2, livro3),
-                new ItemPedido(1, dvd1),
-                new ItemPedido(2, dvd2)
+                new ItemPedido(livro2, 1),
+                new ItemPedido(livro2, 1),
+                new ItemPedido(livro3, 2),
+                new ItemPedido(dvd1, 1),
+                new ItemPedido(dvd2, 2)
         };
 
         Pedido pedido4 = new Pedido(5, itensPedido4);
 
         System.out.printf("Total Pedido: %.2f\n", pedido4.calcularTotal());
-
     }
 }

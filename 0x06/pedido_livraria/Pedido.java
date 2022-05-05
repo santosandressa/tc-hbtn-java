@@ -4,7 +4,7 @@ public class Pedido {
 
     private ItemPedido[] itens;
 
-    public Pedido(double percentualDesconto, ItemPedido[] itens) {
+    Pedido(int percentualDesconto, ItemPedido[] itens){
         this.percentualDesconto = percentualDesconto;
         this.itens = itens;
     }
