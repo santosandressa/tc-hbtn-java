@@ -1,6 +1,6 @@
-package retangulo_completo;
 
-import retangulo.Retangulo;
+
+import Retangulo;
 
 public class Program {
 

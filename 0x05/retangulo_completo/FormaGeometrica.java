@@ -1,4 +1,3 @@
-package retangulo_completo;
 
 public class FormaGeometrica {
     public double area(){
