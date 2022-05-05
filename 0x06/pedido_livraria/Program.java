@@ -50,11 +50,11 @@ public class Program {
 
         // Pedido 4
         ItemPedido[] itensPedido4 = new ItemPedido[] {
-                new ItemPedido(livro2, 1),
-                new ItemPedido(livro2, 1),
-                new ItemPedido(livro3, 2),
-                new ItemPedido(dvd1, 1),
-                new ItemPedido(dvd2, 2)
+                new ItemPedido(1, livro2),
+                new ItemPedido(1,livro2),
+                new ItemPedido(2, livro3),
+                new ItemPedido(1, dvd1),
+                new ItemPedido(2, dvd2)
         };
 
         Pedido pedido4 = new Pedido(5, itensPedido4);

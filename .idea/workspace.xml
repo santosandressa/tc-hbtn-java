@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Pedido Livraria" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Pedido Livraria">
+      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,14 +145,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="18936000" />
-    </task>
-    <task id="LOCAL-00023" summary="task 1 - livraria">
-      <created>1651612373132</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1651612373132</updated>
+      <workItem from="1651755403892" duration="19315000" />
     </task>
     <task id="LOCAL-00024" summary="task 1 - livraria">
       <created>1651612421170</created>
@@ -488,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651780279717</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="task 0. Pedido Livraria">
+      <created>1651781073235</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1651781073235</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +532,8 @@
     <MESSAGE value="task 4 - quadrado" />
     <MESSAGE value="task 5 - classe abstrata" />
     <MESSAGE value="0. Pedido Livraria" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Pedido Livraria" />
+    <MESSAGE value="task 0. Pedido Livraria" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0. Pedido Livraria" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
