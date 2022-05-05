@@ -1,4 +1,5 @@
-package retangulo;
+
+import retangulo.FormaGeometrica;
 
 public class Retangulo extends FormaGeometrica {
 
@@ -27,5 +28,16 @@ public class Retangulo extends FormaGeometrica {
             throw new IllegalArgumentException("Altura deve ser maior ou igual a 0");
         }
         this.altura = altura;
+    }
+
+    @Override
+    public double area() {
+        double areaRetangulo = this.largura * this.altura;
+        return areaRetangulo;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("[Retangulo] %s / %s", this.largura, this.altura);
     }
 }
