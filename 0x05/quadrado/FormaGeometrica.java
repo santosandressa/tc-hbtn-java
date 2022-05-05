@@ -1,3 +1,4 @@
+package quadrado;
 
 public class FormaGeometrica {
     public double area(){
