@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 5 - classe abstrata">
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/produtos/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/produtos/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x6/pedido_livraria/produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Numero1.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Numero1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/forma/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Pedido Livraria" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,28 +143,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="17756000" />
-    </task>
-    <task id="LOCAL-00019" summary="task 0 - Salário">
-      <created>1651604026981</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1651604026981</updated>
-    </task>
-    <task id="LOCAL-00020" summary="task 0 - Salário">
-      <created>1651605476327</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1651605476327</updated>
-    </task>
-    <task id="LOCAL-00021" summary="task 0 - Salário">
-      <created>1651605704300</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1651605704300</updated>
+      <workItem from="1651755403892" duration="18132000" />
     </task>
     <task id="LOCAL-00022" summary="task 0 - Salário">
       <created>1651605755783</created>
@@ -517,7 +467,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651772661847</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="0. Pedido Livraria">
+      <created>1651779686457</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1651779686457</updated>
+    </task>
+    <task id="LOCAL-00069" summary="0. Pedido Livraria">
+      <created>1651779714712</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1651779714712</updated>
+    </task>
+    <task id="LOCAL-00070" summary="0. Pedido Livraria">
+      <created>1651779843272</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1651779843272</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +529,8 @@
     <MESSAGE value="task 3 - retângulo completo" />
     <MESSAGE value="task 4 - quadrado" />
     <MESSAGE value="task 5 - classe abstrata" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5 - classe abstrata" />
+    <MESSAGE value="0. Pedido Livraria" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Pedido Livraria" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
