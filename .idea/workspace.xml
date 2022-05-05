@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 4 - conscistencia">
-      <change afterPath="$PROJECT_DIR$/0x05/heranca/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/consistencia/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/status/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0 - herança">
+      <change afterPath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/forma/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +61,16 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.heranca.Program">
-    <configuration name="Program4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program4" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forma.Program" />
       <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.heranca.Program" />
         <item itemvalue="Application.contas_especiais.Program" />
         <item itemvalue="Application.consistencia.Program" />
         <item itemvalue="Application.status.Program" />
-        <item itemvalue="Application.Program4" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +151,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="4317000" />
+      <workItem from="1651755403892" duration="4637000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -477,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651756813625</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="task 0 - herança">
+      <created>1651760526509</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1651760526509</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +517,8 @@
     <MESSAGE value="task 2 - métodos" />
     <MESSAGE value="task 3 - status do personagemn" />
     <MESSAGE value="task 4 - conscistencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4 - conscistencia" />
+    <MESSAGE value="task 0 - herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0 - herança" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
