@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - retângulo completo">
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,17 +55,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="quadrado" />
       <recent name="salario" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="quadrado" />
       <recent name="retangulo" />
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program (1)">
+  <component name="RunManager" selected="Application.quadrado.Program">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="tc-hbtn-java" />
@@ -80,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heranca.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.Program" />
+    <configuration name="quadrado.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quadrado.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.*" />
+          <option name="PATTERN" value="quadrado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quadrado.Program" />
         <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.retangulo_completo.Program" />
         <item itemvalue="Application.retangulo.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.heranca.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -143,28 +151,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="6498000" />
-    </task>
-    <task id="LOCAL-00009" summary="task 0 - numeros 0 a 99">
-      <created>1651500303778</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1651500303778</updated>
-    </task>
-    <task id="LOCAL-00010" summary="task 1 - números pares">
-      <created>1651501150085</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1651501150085</updated>
-    </task>
-    <task id="LOCAL-00011" summary="task 2 - Letra Maiúscula">
-      <created>1651502996849</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1651502996849</updated>
+      <workItem from="1651755403892" duration="9029000" />
     </task>
     <task id="LOCAL-00012" summary="task 2 - Letra Maiúscula">
       <created>1651503003480</created>
@@ -488,7 +475,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651762565342</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="task 3 - retângulo completo">
+      <created>1651762587203</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762587203</updated>
+    </task>
+    <task id="LOCAL-00059" summary="task 3 - retângulo completo">
+      <created>1651762731482</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762731482</updated>
+    </task>
+    <task id="LOCAL-00060" summary="task 3 - retângulo completo">
+      <created>1651762798376</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762798376</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

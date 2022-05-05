@@ -1,10 +1,8 @@
-package retangulo_completo;
 
 public class Retangulo extends FormaGeometrica {
+    protected double largura;
 
-    private double largura;
-
-    private double altura;
+    protected double altura;
 
     public double getLargura() {
         return largura;
