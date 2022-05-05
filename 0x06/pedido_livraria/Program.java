@@ -1,7 +1,4 @@
 
-import produtos.Dvd;
-import produtos.Livro;
-
 import java.util.Locale;
 
 public class Program {
