@@ -43,7 +43,6 @@ public class Dvd extends Produto {
         double acrescimo = 0.2;
 
         precoLiquido = (this.getPrecoBruto() + (this.getPrecoBruto() * acrescimo));
-        System.out.println("Preço líquido DVD: " + precoLiquido);
 
         return precoLiquido;
 

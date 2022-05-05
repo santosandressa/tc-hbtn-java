@@ -43,9 +43,6 @@ public class Livro extends Produto{
         double acrescimo = 0.15;
 
         precoLiquido = (this.getPrecoBruto() + (this.getPrecoBruto() * acrescimo));
-
-       System.out.println("Preço liquido livro: " + precoLiquido);
-
         return precoLiquido;
     }
 
