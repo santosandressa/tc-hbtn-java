@@ -1,11 +1,15 @@
-package status;
-
 public class PersonagemGame {
-
     private int saudeAtual;
     private String nome;
 
     private String status;
+
+    public PersonagemGame(int saudeAtual, String nome) {
+        this.saudeAtual = saudeAtual;
+        this.nome = nome;
+
+        setSaudeAtual(this.saudeAtual);
+    }
 
     public int getSaudeAtual() {
         return saudeAtual;
@@ -24,7 +28,9 @@ public class PersonagemGame {
     }
 
     public void setNome(String nome) {
-        this.nome = nome;
+        if (this.nome == null || this.nome.startsWith(" ")) {
+            this.nome = nome;
+        }
     }
 
     public String getStatus() {

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2 - métodos">
-      <change afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x04/status/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - status do personagemn">
+      <change afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x04/consistencia/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/status/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/0x02/divisao",
-    "last_opened_file_path": "/home/andressas/Documentos/curso-java-basico",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/0x02/divisao&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/andressas/Documentos/curso-java-basico&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="salario" />
@@ -61,7 +61,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.status.Program">
+  <component name="RunManager" selected="Application.consistencia.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="metodos.Program" />
       <module name="tc-hbtn-java" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="personagem.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="personagem.Program" />
+    <configuration name="consistencia.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consistencia.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="personagem.*" />
+          <option name="PATTERN" value="consistencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.consistencia.Program" />
         <item itemvalue="Application.status.Program" />
         <item itemvalue="Application.Program4" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Programa" />
-        <item itemvalue="Application.personagem.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,8 @@
       <workItem from="1651509896758" duration="118000" />
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
-      <workItem from="1651665820832" duration="24778000" />
+      <workItem from="1651665820832" duration="27513000" />
+      <workItem from="1651755403892" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -447,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651689400343</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="task 3 - status do personagemn">
+      <created>1651692916974</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692916974</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +488,8 @@
     <MESSAGE value="task 0 - personagem game" />
     <MESSAGE value="task 1 - encapsulamento" />
     <MESSAGE value="task 2 - métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2 - métodos" />
+    <MESSAGE value="task 3 - status do personagemn" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 3 - status do personagemn" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
