@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - status do personagemn">
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 4 - conscistencia">
       <change afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0x04/consistencia/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -145,7 +145,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="1031000" />
+      <workItem from="1651755403892" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="task 0 - println">
       <created>1651257871909</created>
@@ -455,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651692916974</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="task 4 - conscistencia">
+      <created>1651756746590</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1651756746591</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +496,8 @@
     <MESSAGE value="task 1 - encapsulamento" />
     <MESSAGE value="task 2 - métodos" />
     <MESSAGE value="task 3 - status do personagemn" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3 - status do personagemn" />
+    <MESSAGE value="task 4 - conscistencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4 - conscistencia" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
