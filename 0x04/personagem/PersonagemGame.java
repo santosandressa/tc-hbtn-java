@@ -1,3 +1,4 @@
+package personagem;
 
 public class PersonagemGame {
 

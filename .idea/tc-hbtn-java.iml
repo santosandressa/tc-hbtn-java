@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x02/quadrado" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x05" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
