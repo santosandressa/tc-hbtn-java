@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 4 - quadrado">
-      <change afterPath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/abstrata/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 5 - classe abstrata">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,21 +145,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="9649000" />
-    </task>
-    <task id="LOCAL-00015" summary="task 0 - Divisão inteira">
-      <created>1651581068539</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1651581068539</updated>
-    </task>
-    <task id="LOCAL-00016" summary="task 0 - Divisão inteira">
-      <created>1651581076259</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1651581076259</updated>
+      <workItem from="1651755403892" duration="10613000" />
     </task>
     <task id="LOCAL-00017" summary="task 0 - Salário">
       <created>1651603509056</created>
@@ -498,7 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651769674098</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="task 5 - classe abstrata">
+      <created>1651770214517</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1651770214517</updated>
+    </task>
+    <task id="LOCAL-00065" summary="task 5 - classe abstrata">
+      <created>1651770350605</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1651770350605</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +530,8 @@
     <MESSAGE value="task 2 - retângulo" />
     <MESSAGE value="task 3 - retângulo completo" />
     <MESSAGE value="task 4 - quadrado" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4 - quadrado" />
+    <MESSAGE value="task 5 - classe abstrata" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5 - classe abstrata" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
