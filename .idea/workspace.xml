@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2 - retângulo">
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - retângulo completo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,14 +146,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="5891000" />
-    </task>
-    <task id="LOCAL-00004" summary="task 2- Print PI">
-      <created>1651264780236</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651264780236</updated>
+      <workItem from="1651755403892" duration="6192000" />
     </task>
     <task id="LOCAL-00005" summary="task 5 - Print Formatando números">
       <created>1651270946461</created>
@@ -499,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651761762367</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="task 3 - retângulo completo">
+      <created>1651762254042</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762254042</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +529,8 @@
     <MESSAGE value="task 0 - herança" />
     <MESSAGE value="task 1 - forma geometrica" />
     <MESSAGE value="task 2 - retângulo" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2 - retângulo" />
+    <MESSAGE value="task 3 - retângulo completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 3 - retângulo completo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
