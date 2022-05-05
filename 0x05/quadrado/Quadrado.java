@@ -21,7 +21,7 @@ public class Quadrado extends Retangulo{
 
     @Override
     public String toString() {
-        return "[Quadrado]" +
+        return "[Quadrado]" + " " +
                 lado;
     }
 }
