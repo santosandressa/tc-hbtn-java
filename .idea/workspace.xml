@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - retângulo completo" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3 - retângulo completo">
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,35 +149,7 @@
       <workItem from="1651579863050" duration="1955000" />
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
-      <workItem from="1651755403892" duration="6192000" />
-    </task>
-    <task id="LOCAL-00005" summary="task 5 - Print Formatando números">
-      <created>1651270946461</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1651270946461</updated>
-    </task>
-    <task id="LOCAL-00006" summary="task 5 - Print Formatando números">
-      <created>1651270952000</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1651270952000</updated>
-    </task>
-    <task id="LOCAL-00007" summary="task 0 - numeros 0 a 99">
-      <created>1651499724993</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1651499724993</updated>
-    </task>
-    <task id="LOCAL-00008" summary="task 0 - numeros 0 a 99">
-      <created>1651499749407</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1651499749407</updated>
+      <workItem from="1651755403892" duration="6498000" />
     </task>
     <task id="LOCAL-00009" summary="task 0 - numeros 0 a 99">
       <created>1651500303778</created>
@@ -491,7 +466,35 @@
       <option name="project" value="LOCAL" />
       <updated>1651762254042</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="task 3 - retângulo completo">
+      <created>1651762325202</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762325202</updated>
+    </task>
+    <task id="LOCAL-00055" summary="task 3 - retângulo completo">
+      <created>1651762371137</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762371137</updated>
+    </task>
+    <task id="LOCAL-00056" summary="task 3 - retângulo completo">
+      <created>1651762481318</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762481318</updated>
+    </task>
+    <task id="LOCAL-00057" summary="task 3 - retângulo completo">
+      <created>1651762565342</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762565342</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
