@@ -67,7 +67,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quadrado.Program">
+  <component name="RunManager" selected="Application.Program (1)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="tc-hbtn-java" />
@@ -129,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.quadrado.Program" />
         <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.quadrado.Program" />
         <item itemvalue="Application.retangulo_completo.Program" />
         <item itemvalue="Application.retangulo.Program" />
         <item itemvalue="Application.Program" />
