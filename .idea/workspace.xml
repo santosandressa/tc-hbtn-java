@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Pedido Livraria">
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Dvd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Produto.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Resumo Pedido">
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,14 +150,7 @@
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
       <workItem from="1651755403892" duration="20536000" />
-      <workItem from="1651840555929" duration="5662000" />
-    </task>
-    <task id="LOCAL-00031" summary="3. Conta Bancária Controlada/Tarifada">
-      <created>1651682568158</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1651682568158</updated>
+      <workItem from="1651840555929" duration="6034000" />
     </task>
     <task id="LOCAL-00032" summary="3. Conta Bancária Controlada/Tarifada">
       <created>1651682640862</created>
@@ -507,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651782075598</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="task 1. Resumo Pedido">
+      <created>1651852558012</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1651852558013</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - println" />
     <MESSAGE value="task 2- Print PI" />
     <MESSAGE value="task 5 - Print Formatando números" />
     <MESSAGE value="task 0 - numeros 0 a 99" />
@@ -550,7 +537,8 @@
     <MESSAGE value="task 5 - classe abstrata" />
     <MESSAGE value="0. Pedido Livraria" />
     <MESSAGE value="task 0. Pedido Livraria" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Pedido Livraria" />
+    <MESSAGE value="task 1. Resumo Pedido" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1. Resumo Pedido" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
