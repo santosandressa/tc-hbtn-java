@@ -42,7 +42,7 @@ public class Pedido {
         System.out.printf("TOTAL PRODUTOS: %.2f\n", total);
         System.out.println("----------------------------");
         System.out.printf("TOTAL PEDIDO: %.2f\n", calcularTotal());
-        System.out.print("----------------------------");
+        System.out.print("----------------------------\n");
 
     }
 }
