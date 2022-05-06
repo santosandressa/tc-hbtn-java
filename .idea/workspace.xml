@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Resumo Pedido">
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Resumo Pedido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,21 +148,7 @@
       <workItem from="1651597594962" duration="14779000" />
       <workItem from="1651665820832" duration="27513000" />
       <workItem from="1651755403892" duration="20536000" />
-      <workItem from="1651840555929" duration="6034000" />
-    </task>
-    <task id="LOCAL-00032" summary="3. Conta Bancária Controlada/Tarifada">
-      <created>1651682640862</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1651682640862</updated>
-    </task>
-    <task id="LOCAL-00033" summary="3. Conta Bancária Controlada/Tarifada">
-      <created>1651683242452</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1651683242452</updated>
+      <workItem from="1651840555929" duration="6432000" />
     </task>
     <task id="LOCAL-00034" summary="3. Conta Bancária Controlada/Tarifada">
       <created>1651683639514</created>
@@ -495,7 +479,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651852558013</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="task 1. Resumo Pedido">
+      <created>1651852835704</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1651852835705</updated>
+    </task>
+    <task id="LOCAL-00082" summary="task 1. Resumo Pedido">
+      <created>1651852983585</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1651852983585</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
