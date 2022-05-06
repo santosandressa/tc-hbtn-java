@@ -1,7 +1,5 @@
-package pedido_livraria;
-
-import pedido_livraria.produtos.Dvd;
-import pedido_livraria.produtos.Livro;
+import produtos.Dvd;
+import produtos.Livro;
 
 import java.util.Locale;
 
