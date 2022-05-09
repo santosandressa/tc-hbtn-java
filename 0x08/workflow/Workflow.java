@@ -1,4 +1,6 @@
-import atividades.Atividade;
+package workflow;
+
+import workflow.atividades.Atividade;
 
 import java.util.ArrayList;
 import java.util.List;
