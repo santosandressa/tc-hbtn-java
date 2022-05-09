@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. workflow">
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/ProcessadorPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Sedex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/TipoProvedorFrete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Program08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/Workflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Frete">
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,14 +143,7 @@
       <workItem from="1651840555929" duration="17959000" />
       <workItem from="1651868301814" duration="200000" />
       <workItem from="1652099913854" duration="8921000" />
-      <workItem from="1652117395313" duration="7428000" />
-    </task>
-    <task id="LOCAL-00046" summary="task 4 - conscistencia">
-      <created>1651756813625</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1651756813625</updated>
+      <workItem from="1652117395313" duration="7761000" />
     </task>
     <task id="LOCAL-00047" summary="task 0 - herança">
       <created>1651760526509</created>
@@ -506,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652120468645</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="task 1. Frete">
+      <created>1652125410218</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1652125410218</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - numeros 0 a 99" />
     <MESSAGE value="task 1 - números pares" />
     <MESSAGE value="task 2 - Letra Maiúscula" />
     <MESSAGE value="task 3 - Soma" />
@@ -549,7 +530,8 @@
     <MESSAGE value="task 1. Resumo Pedido" />
     <MESSAGE value="task 0. Logging" />
     <MESSAGE value="task 0. workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. workflow" />
+    <MESSAGE value="task 1. Frete" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1. Frete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
