@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Logging">
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/Atividade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/CarregarVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/CodificarVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/EnviarEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/ModificarStatusVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/FormatoVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/FormatoVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Mensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/ProcessadorVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/ProcessadorVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Program1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Slack.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Slack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Sms.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Sms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Teams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/TipoMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/TipoMensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x07/workflow/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Video.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. workflow">
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividade/Atividade.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividade/CarregarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividade/CodificarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividade/EnviarEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividade/ModificarStatusVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,21 +153,7 @@
       <workItem from="1651840555929" duration="17959000" />
       <workItem from="1651868301814" duration="200000" />
       <workItem from="1652099913854" duration="8921000" />
-      <workItem from="1652117395313" duration="2302000" />
-    </task>
-    <task id="LOCAL-00042" summary="task 1 - encapsulamento">
-      <created>1651688662133</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1651688662133</updated>
-    </task>
-    <task id="LOCAL-00043" summary="task 2 - métodos">
-      <created>1651689400343</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1651689400343</updated>
+      <workItem from="1652117395313" duration="2603000" />
     </task>
     <task id="LOCAL-00044" summary="task 3 - status do personagemn">
       <created>1651692916974</created>
@@ -514,7 +484,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652106813130</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="task 0. workflow">
+      <created>1652120284985</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1652120284985</updated>
+    </task>
+    <task id="LOCAL-00092" summary="task 0. workflow">
+      <created>1652120360261</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1652120360261</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 5 - Print Formatando números" />
     <MESSAGE value="task 0 - numeros 0 a 99" />
     <MESSAGE value="task 1 - números pares" />
     <MESSAGE value="task 2 - Letra Maiúscula" />
@@ -557,7 +540,8 @@
     <MESSAGE value="task 0. Pedido Livraria" />
     <MESSAGE value="task 1. Resumo Pedido" />
     <MESSAGE value="task 0. Logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Logging" />
+    <MESSAGE value="task 0. workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0. workflow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
