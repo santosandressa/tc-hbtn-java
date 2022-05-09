@@ -1,3 +1,6 @@
+
+import java.util.ArrayList;
+
 public class ProcessadorVideo {
 
     List<CanalNotificacao> canais;
