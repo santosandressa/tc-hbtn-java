@@ -1,61 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Resumo Pedido">
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/FormatoVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Mensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/ProcessadorVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Slack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Sms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Teams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/TipoMensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/Video.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Logging">
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/Atividade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/CarregarVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/CodificarVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/EnviarEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividade/ModificarStatusVideo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-java-hello_world/PrintFormatacaoNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintFormatacaoNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x00-java-hello_world/PrintStringVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintStringVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01/numeros/Numeros0a99.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x01/numeros/Numeros0a99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x01/pares/NumerosPares.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x01/pares/NumerosPares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/quadrado/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/quadrado/Program4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Dvd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/FormatoVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/FormatoVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/ProcessadorVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/ProcessadorVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Program1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Slack.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Slack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Sms.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Sms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Teams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/TipoMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/TipoMensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07/workflow/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x07/workflow/Video.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -86,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/0x02/divisao",
-    "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/0x02/divisao&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="quadrado" />
@@ -120,7 +87,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.workflow.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C" />
       <module name="tc-hbtn-java" />
@@ -135,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="resumo_pedido.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resumo_pedido.Program" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="workflow.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="resumo_pedido.*" />
+          <option name="PATTERN" value="workflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="workflow.Program1" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="workflow.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="workflow.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="workflow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.workflow.Program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Program1" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.salario.Program" />
-        <item itemvalue="Application.resumo_pedido.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -201,28 +168,8 @@
       <workItem from="1651755403892" duration="20536000" />
       <workItem from="1651840555929" duration="17959000" />
       <workItem from="1651868301814" duration="200000" />
-      <workItem from="1652099913854" duration="6442000" />
-    </task>
-    <task id="LOCAL-00039" summary="3. Conta Bancária Controlada/Tarifada">
-      <created>1651684166486</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1651684166486</updated>
-    </task>
-    <task id="LOCAL-00040" summary="task 0 - personagem game">
-      <created>1651688074827</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1651688074827</updated>
-    </task>
-    <task id="LOCAL-00041" summary="task 1 - encapsulamento">
-      <created>1651688563546</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1651688563546</updated>
+      <workItem from="1652099913854" duration="8921000" />
+      <workItem from="1652117395313" duration="2302000" />
     </task>
     <task id="LOCAL-00042" summary="task 1 - encapsulamento">
       <created>1651688662133</created>
@@ -546,7 +493,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651853660415</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="task 0. Logging">
+      <created>1652106694300</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106694300</updated>
+    </task>
+    <task id="LOCAL-00089" summary="task 0. Logging">
+      <created>1652106775231</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106775231</updated>
+    </task>
+    <task id="LOCAL-00090" summary="task 0. Logging">
+      <created>1652106813130</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106813130</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 2- Print PI" />
     <MESSAGE value="task 5 - Print Formatando números" />
     <MESSAGE value="task 0 - numeros 0 a 99" />
     <MESSAGE value="task 1 - números pares" />
@@ -589,7 +556,24 @@
     <MESSAGE value="0. Pedido Livraria" />
     <MESSAGE value="task 0. Pedido Livraria" />
     <MESSAGE value="task 1. Resumo Pedido" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1. Resumo Pedido" />
+    <MESSAGE value="task 0. Logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0. Logging" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0x07/workflow/Program1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0x07/workflow/Program1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
