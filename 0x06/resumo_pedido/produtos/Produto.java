@@ -1,4 +1,5 @@
-package produtos;
+package resumo_pedido.produtos;
+
 public abstract class Produto {
 
     private String titulo;
@@ -6,7 +7,8 @@ public abstract class Produto {
     private String pais;
     private double precoBruto;
 
-    public Produto(){}
+    public Produto() {
+    }
 
     public Produto(String titulo, int ano, String pais, double precoBruto) {
         this.titulo = titulo;

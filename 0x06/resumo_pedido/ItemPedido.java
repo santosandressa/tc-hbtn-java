@@ -1,4 +1,6 @@
-import produtos.Produto;
+package resumo_pedido;
+
+import resumo_pedido.produtos.Produto;
 
 public class ItemPedido {
 
@@ -6,12 +8,13 @@ public class ItemPedido {
 
     private Produto produto;
 
-   public ItemPedido(Produto produto, int quantidade){
-       this.produto = produto;
-       this.quantidade = quantidade;
-   }
+    public ItemPedido(Produto produto, int quantidade) {
+        this.produto = produto;
+        this.quantidade = quantidade;
+    }
 
-    public ItemPedido(){}
+    public ItemPedido() {
+    }
 
     public int getQuantidade() {
         return quantidade;

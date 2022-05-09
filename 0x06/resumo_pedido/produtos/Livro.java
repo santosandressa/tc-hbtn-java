@@ -1,6 +1,6 @@
-package produtos;
+package resumo_pedido.produtos;
 
-public class Livro extends Produto{
+public class Livro extends Produto {
 
     private int paginas;
     private String autor;

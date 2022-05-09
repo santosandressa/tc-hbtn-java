@@ -1,3 +1,5 @@
+package resumo_pedido;
+
 public class Pedido {
 
     private double percentualDesconto;

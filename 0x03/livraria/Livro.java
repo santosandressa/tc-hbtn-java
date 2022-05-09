@@ -18,38 +18,39 @@ public class Livro {
         this.setPreco(preco);
     }
 
-    public Livro(){}
-
-    public void setTitulo(String titulo) throws LivroInvalidoException {
-            if (titulo.length() < 3 || titulo.isEmpty()) {
-                throw new LivroInvalidoException("Titulo de livro invalido");
-            }
-        this.titulo = titulo;
-    }
-
-    public void setAutor(String autor) throws AutorInvalidoException {
-            if (!autor.contains(" ")) {
-                throw new AutorInvalidoException("Nome de autor invalido");
-            }
-        this.autor = autor;
-    }
-
-    public void setPreco(double preco) throws LivroInvalidoException {
-            if (preco <= 0) {
-                throw new LivroInvalidoException("Preco de livro invalido");
-            }
-        this.preco = preco;
+    public Livro() {
     }
 
     public String getAutor() {
         return autor;
     }
 
+    public void setAutor(String autor) throws AutorInvalidoException {
+        if (!autor.contains(" ")) {
+            throw new AutorInvalidoException("Nome de autor invalido");
+        }
+        this.autor = autor;
+    }
+
     public double getPreco() {
         return preco;
     }
 
+    public void setPreco(double preco) throws LivroInvalidoException {
+        if (preco <= 0) {
+            throw new LivroInvalidoException("Preco de livro invalido");
+        }
+        this.preco = preco;
+    }
+
     public String getTitulo() {
         return titulo;
+    }
+
+    public void setTitulo(String titulo) throws LivroInvalidoException {
+        if (titulo.length() < 3 || titulo.isEmpty()) {
+            throw new LivroInvalidoException("Titulo de livro invalido");
+        }
+        this.titulo = titulo;
     }
 }

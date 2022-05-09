@@ -22,52 +22,51 @@ public class ContaBancariaBasica {
         return saldo;
     }
 
-    public double getTaxaJurosAnual() {
-        return taxaJurosAnual;
-    }
-
-
     public void setSaldo(double saldo) {
         this.saldo = saldo;
     }
 
+    public double getTaxaJurosAnual() {
+        return taxaJurosAnual;
+    }
+
     public void depositar(double valor) throws OperacaoInvalidaException {
-        if (valor <= 0){
+        if (valor <= 0) {
             throw new OperacaoInvalidaException("Valor para deposito deve ser maior que 0");
         }
         this.saldo += valor;
     }
 
     public void sacar(double valor) throws OperacaoInvalidaException {
-        if (valor <= 0){
+        if (valor <= 0) {
             throw new OperacaoInvalidaException("Valor de saque deve ser menor que 0");
-        } else if(valor > saldo){
+        } else if (valor > saldo) {
             throw new OperacaoInvalidaException("Valor de saque deve ser menor que o saldo atual");
         }
 
-        this.saldo -=valor;
+        this.saldo -= valor;
     }
 
-    public double calcularTarifaMensal(){
+    public double calcularTarifaMensal() {
         double taxaReal = 10.00;
         double taxaPorcentagem = 0.1;
 
         double saldoPorcentagem = saldo * taxaPorcentagem;
 
-        if (saldoPorcentagem < taxaReal){
+        if (saldoPorcentagem < taxaReal) {
             return saldoPorcentagem;
         }
         return taxaReal;
     }
 
-    public double calcularJurosMensal(){
-        if (saldo <= 0){
+    public double calcularJurosMensal() {
+        if (saldo <= 0) {
             this.taxaJurosAnual = 0;
         }
-        return ((this.taxaJurosAnual / 12)  * saldo) / 100;
+        return ((this.taxaJurosAnual / 12) * saldo) / 100;
     }
 
-    public void aplicarAtualizacaoMensal(){
-        this.saldo =  (this.saldo - calcularTarifaMensal()) + calcularJurosMensal();
+    public void aplicarAtualizacaoMensal() {
+        this.saldo = (this.saldo - calcularTarifaMensal()) + calcularJurosMensal();
     }
 }

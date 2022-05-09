@@ -9,7 +9,7 @@ public class Quadrado extends Retangulo {
     }
 
     public void setLado(double lado) {
-        if (lado < 0 )
+        if (lado < 0)
             throw new IllegalArgumentException("Lado deve ser maior ou igual a 0");
 
         this.lado = lado;

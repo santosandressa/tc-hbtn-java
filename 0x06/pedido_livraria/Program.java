@@ -1,5 +1,7 @@
-import produtos.Dvd;
-import produtos.Livro;
+package pedido_livraria;
+
+import pedido_livraria.produtos.Dvd;
+import pedido_livraria.produtos.Livro;
 
 import java.util.Locale;
 
@@ -21,7 +23,7 @@ public class Program {
                 109);
 
         // Pedido 1
-        ItemPedido[] itensPedido1 = new ItemPedido[] {
+        ItemPedido[] itensPedido1 = new ItemPedido[]{
                 new ItemPedido(livro1, 1),
                 new ItemPedido(dvd2, 1)
         };
@@ -31,7 +33,7 @@ public class Program {
         System.out.printf("Total Pedido: %.2f\n", pedido1.calcularTotal());
 
         // Pedido 2
-        ItemPedido[] itensPedido2 = new ItemPedido[] {
+        ItemPedido[] itensPedido2 = new ItemPedido[]{
                 new ItemPedido(livro1, 1),
                 new ItemPedido(dvd2, 1)
         };
@@ -41,7 +43,7 @@ public class Program {
         System.out.printf("Total Pedido: %.2f\n", pedido2.calcularTotal());
 
         // Pedido 3
-        ItemPedido[] itensPedido3 = new ItemPedido[] {
+        ItemPedido[] itensPedido3 = new ItemPedido[]{
                 new ItemPedido(livro2, 1),
                 new ItemPedido(livro3, 2),
                 new ItemPedido(dvd1, 1)
@@ -52,7 +54,7 @@ public class Program {
         System.out.printf("Total Pedido: %.2f\n", pedido3.calcularTotal());
 
         // Pedido 4
-        ItemPedido[] itensPedido4 = new ItemPedido[] {
+        ItemPedido[] itensPedido4 = new ItemPedido[]{
                 new ItemPedido(livro2, 1),
                 new ItemPedido(livro2, 1),
                 new ItemPedido(livro3, 2),

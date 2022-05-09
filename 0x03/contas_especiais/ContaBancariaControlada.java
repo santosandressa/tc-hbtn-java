@@ -17,7 +17,7 @@ public class ContaBancariaControlada extends ContaBancariaBasica {
     public void aplicarAtualizacaoMensal() {
         super.aplicarAtualizacaoMensal();
         if (getSaldo() < saldoMinimo || getSaldo() == 0) {
-           setSaldo(getSaldo() - valorPenalidade);
+            setSaldo(getSaldo() - valorPenalidade);
         }
     }
 }
