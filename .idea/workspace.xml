@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Empregado/Endereço">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.workflow.Program1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tc-hbtn-java" />
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.workflow.Program1" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program082" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program08" />
-        <item itemvalue="Application.workflow.Program1" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +144,7 @@
       <workItem from="1651868301814" duration="200000" />
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
-      <workItem from="1652182219721" duration="8973000" />
-    </task>
-    <task id="LOCAL-00051" summary="task 1 - forma geometrica">
-      <created>1651761378909</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1651761378909</updated>
+      <workItem from="1652182219721" duration="11397000" />
     </task>
     <task id="LOCAL-00052" summary="task 2 - retângulo">
       <created>1651761762366</created>
@@ -490,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652205501545</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="task 0. Empregado/Endereço">
+      <created>1652206043849</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1652206043849</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
