@@ -15,7 +15,8 @@
       <sourceFolder url="file://$MODULE_DIR$/0x07" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x08/resumo_pedido" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x08/workflow" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0x08/workflow/atividades" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x09/agregacao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/poo" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
