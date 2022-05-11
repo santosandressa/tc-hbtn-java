@@ -22,7 +22,8 @@ public class InteiroPositivo {
     }
 
     public InteiroPositivo(String valor) {
-        this.valor = Integer.valueOf(valor);
+        this.valor = Integer.parseInt(valor);
+        setValor(this.valor);
     }
 
     public boolean ehPrimo() {
@@ -34,6 +35,10 @@ public class InteiroPositivo {
             }
         }
 
-        return contador == 2;
+        if (contador == 2) {
+            return true;
+        }
+
+        return false;
     }
 }

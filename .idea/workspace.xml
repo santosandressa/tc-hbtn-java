@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Inteiro">
       <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,14 +148,7 @@
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
-      <workItem from="1652273634312" duration="9712000" />
-    </task>
-    <task id="LOCAL-00058" summary="task 3 - retângulo completo">
-      <created>1651762587203</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1651762587203</updated>
+      <workItem from="1652273634312" duration="10052000" />
     </task>
     <task id="LOCAL-00059" summary="task 3 - retângulo completo">
       <created>1651762731482</created>
@@ -494,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652288512026</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="0. Inteiro">
+      <created>1652288653910</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1652288653910</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
