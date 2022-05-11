@@ -37,6 +37,5 @@ public class InteiroPositivo {
         }
 
         return contador == 2;
-
     }
 }
