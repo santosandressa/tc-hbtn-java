@@ -75,7 +75,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.inteiro_positivo.Program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tc-hbtn-java" />
@@ -83,15 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
+    <configuration name="Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program10" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program10" />
+    <configuration name="inteiro_positivo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inteiro_positivo.Program" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,7 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.inteiro_positivo.Program" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program10" />
         <item itemvalue="Application.quadrado.Program" />

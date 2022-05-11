@@ -1,3 +1,5 @@
+package inteiro_positivo;
+
 public class InteiroPositivo {
 
     private int valor;

@@ -1,3 +1,7 @@
+package inteiro_positivo;
+
+import inteiro_positivo.InteiroPositivo;
+
 public class Program {
     public static void main(String[] args) {
         try {
