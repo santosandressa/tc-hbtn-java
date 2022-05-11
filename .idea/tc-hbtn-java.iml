@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x10/plano_mordor" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiposPrimitivos_Wrapper" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -16,7 +16,7 @@ public class Workflow {
     }
 
     public Workflow(){
-        this.atividades = new ArrayList<Atividade>();
+        this.atividades = new ArrayList<>();
     }
 
     void registrarAtividade(Atividade atividade){
