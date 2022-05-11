@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Empregado/Endereço">
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Triste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Program09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +76,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="resumo_pedido" />
       <recent name="abstrata" />
@@ -67,7 +87,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.workflow.Program1">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tc-hbtn-java" />
@@ -82,22 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="workflow.Program08" />
+    <configuration name="Program082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program082" />
       <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="workflow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program082" />
+    <configuration name="quadrado.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quadrado.Program" />
       <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quadrado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.workflow.Program1" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Program082" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program08" />
+        <item itemvalue="Application.quadrado.Program" />
+        <item itemvalue="Application.workflow.Program1" />
+        <item itemvalue="Application.Program082" />
       </list>
     </recent_temporary>
   </component>
@@ -144,14 +164,8 @@
       <workItem from="1651868301814" duration="200000" />
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
-      <workItem from="1652182219721" duration="11397000" />
-    </task>
-    <task id="LOCAL-00052" summary="task 2 - retângulo">
-      <created>1651761762366</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1651761762367</updated>
+      <workItem from="1652182219721" duration="13477000" />
+      <workItem from="1652273634312" duration="6846000" />
     </task>
     <task id="LOCAL-00053" summary="task 3 - retângulo completo">
       <created>1651762254042</created>
@@ -489,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652206043849</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="task 0. Empregado/Endereço">
+      <created>1652208530863</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1652208530863</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

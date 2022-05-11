@@ -1,4 +1,4 @@
-public class Program {
+public class Program09 {
 
     public static void main(String[] args) {
         Endereco endereco = new Endereco("Rua Marechal Deodoro",

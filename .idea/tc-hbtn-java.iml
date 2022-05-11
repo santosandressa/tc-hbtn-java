@@ -17,6 +17,10 @@
       <sourceFolder url="file://$MODULE_DIR$/0x08/workflow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x09/agregacao" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/poo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x10/plano_mordor" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
