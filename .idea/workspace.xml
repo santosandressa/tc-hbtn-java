@@ -26,7 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="28U2p3mfuZ7B5VtN1HKY0HD4OXA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,6 +43,7 @@
     "jdk.selected.JAVA_MODULE": "temurin-11",
     "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/0x02/divisao",
     "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -144,14 +145,7 @@
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
-      <workItem from="1652273634312" duration="12432000" />
-    </task>
-    <task id="LOCAL-00065" summary="task 5 - classe abstrata">
-      <created>1651770350605</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1651770350605</updated>
+      <workItem from="1652273634312" duration="13063000" />
     </task>
     <task id="LOCAL-00066" summary="task 5 - classe abstrata">
       <created>1651772564723</created>
@@ -489,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652290092215</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="0. Inteiro">
+      <created>1652291501441</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1652291501441</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +560,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
-          <line>27</line>
+          <line>26</line>
           <properties class="inteiro_positivo.InteiroPositivo" method="ehPrimo">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
