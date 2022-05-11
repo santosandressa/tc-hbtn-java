@@ -1,3 +1,5 @@
+package inteiro_positivo;
+
 import inteiro_positivo.InteiroPositivo;
 
 public class Program {
