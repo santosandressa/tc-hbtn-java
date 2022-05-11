@@ -12,10 +12,9 @@ public class InteiroPositivo {
 
         if (valor < 0) {
             throw new IllegalArgumentException("Valor nao eh um valor inteiro positivo");
-        } else {
-            this.valor = valor;
         }
 
+        this.valor = valor;
     }
 
     public InteiroPositivo(int valor) {
