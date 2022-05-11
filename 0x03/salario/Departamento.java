@@ -2,10 +2,10 @@ package salario;
 
 public class Departamento {
 
-    private double valorMeta;
+    private final double valorMeta;
 
 
-    private double valorAtingidoMeta;
+    private final double valorAtingidoMeta;
 
     public Departamento(double valorMeta, double valorAtingidoMeta) {
         this.valorMeta = valorMeta;

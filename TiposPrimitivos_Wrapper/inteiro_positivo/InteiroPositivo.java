@@ -4,19 +4,6 @@ public class InteiroPositivo {
 
     private int valor;
 
-    public int getValor() {
-        return valor;
-    }
-
-    public void setValor(int valor) {
-
-        if (valor < 0) {
-            throw new IllegalArgumentException("Valor nao eh um valor inteiro positivo");
-        }
-
-        this.valor = valor;
-    }
-
     public InteiroPositivo(int valor) {
         this.valor = valor;
     }
@@ -26,6 +13,17 @@ public class InteiroPositivo {
         setValor(this.valor);
     }
 
+    public int getValor() {
+        return valor;
+    }
+
+    public void setValor(int valor) {
+        if (valor < 0) {
+            throw new IllegalArgumentException("Valor nao eh um valor inteiro positivo");
+        }
+
+        this.valor = valor;
+    }
     public boolean ehPrimo() {
         int contador = 0;
 

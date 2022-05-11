@@ -2,7 +2,7 @@ import provedores.ProvedorFrete;
 
 public class ProcessadorPedido {
 
-    private ProvedorFrete provedorFrete;
+    private final ProvedorFrete provedorFrete;
 
     public ProcessadorPedido(ProvedorFrete provedorFrete) {
         this.provedorFrete = provedorFrete;

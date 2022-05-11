@@ -8,6 +8,6 @@ public class Program {
         retangulo.setAltura(4);
 
         System.out.printf("Area: %.2f\n", retangulo.area());
-        System.out.println(retangulo.toString());
+        System.out.println(retangulo);
     }
 }

@@ -2,7 +2,7 @@ package salario;
 
 public class Empregado {
 
-    private double salarioFixo;
+    private final double salarioFixo;
 
     public Empregado(double salarioFixo) {
         this.salarioFixo = salarioFixo;

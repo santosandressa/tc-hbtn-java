@@ -2,9 +2,9 @@ package pedido_livraria;
 
 public class Pedido {
 
-    private double percentualDesconto;
+    private final double percentualDesconto;
 
-    private ItemPedido[] itens;
+    private final ItemPedido[] itens;
 
     public Pedido(int percentualDesconto, ItemPedido[] itens) {
         this.percentualDesconto = percentualDesconto;

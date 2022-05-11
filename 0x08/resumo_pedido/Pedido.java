@@ -2,11 +2,11 @@ import provedores.Frete;
 
 public class Pedido {
 
-    private int codigo;
+    private final int codigo;
 
-    private double peso;
+    private final double peso;
 
-    private double total;
+    private final double total;
 
     private Frete frete;
 

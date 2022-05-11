@@ -6,7 +6,6 @@ class Program2 {
         b = 3;
         Numero1.dividir(a, b);
         System.out.println();
-        ;
 
         a = 9;
         b = 0;

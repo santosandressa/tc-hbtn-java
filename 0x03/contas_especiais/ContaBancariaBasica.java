@@ -4,7 +4,7 @@ package contas_especiais;
 import contas_especiais.exceptions.OperacaoInvalidaException;
 
 public class ContaBancariaBasica {
-    private String numeracao;
+    private final String numeracao;
     private double saldo;
     private double taxaJurosAnual;
 
