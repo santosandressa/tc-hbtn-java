@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Plano de Ataque Mordor">
-      <change afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/InteiroPositivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/Workflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/Program10.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Inteiro">
+      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,28 +149,7 @@
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
-      <workItem from="1652273634312" duration="9408000" />
-    </task>
-    <task id="LOCAL-00055" summary="task 3 - retângulo completo">
-      <created>1651762371137</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1651762371137</updated>
-    </task>
-    <task id="LOCAL-00056" summary="task 3 - retângulo completo">
-      <created>1651762481318</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1651762481318</updated>
-    </task>
-    <task id="LOCAL-00057" summary="task 3 - retângulo completo">
-      <created>1651762565342</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1651762565342</updated>
+      <workItem from="1652273634312" duration="9712000" />
     </task>
     <task id="LOCAL-00058" summary="task 3 - retângulo completo">
       <created>1651762587203</created>
@@ -498,7 +473,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652286132908</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="0. Inteiro">
+      <created>1652288386587</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1652288386587</updated>
+    </task>
+    <task id="LOCAL-00105" summary="0. Inteiro">
+      <created>1652288461210</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1652288461210</updated>
+    </task>
+    <task id="LOCAL-00106" summary="0. Inteiro">
+      <created>1652288512026</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1652288512026</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 3 - Soma" />
     <MESSAGE value="task 0 - Divisão inteira" />
     <MESSAGE value="task 0 - Salário" />
     <MESSAGE value="task 1 - livraria" />
@@ -541,7 +536,8 @@
     <MESSAGE value="task 1. Frete" />
     <MESSAGE value="task 0. Empregado/Endereço" />
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Plano de Ataque Mordor" />
+    <MESSAGE value="0. Inteiro" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Inteiro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

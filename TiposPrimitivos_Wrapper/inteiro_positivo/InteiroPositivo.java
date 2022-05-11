@@ -4,8 +4,6 @@ public class InteiroPositivo {
 
     private int valor;
 
-    public InteiroPositivo(){}
-
     public int getValor() {
         return valor;
     }
@@ -24,7 +22,7 @@ public class InteiroPositivo {
     }
 
     public InteiroPositivo(String valor) {
-        this.valor = Integer.parseInt(valor);
+        this.valor = Integer.valueOf(valor);
     }
 
     public boolean ehPrimo() {
