@@ -2,7 +2,7 @@ package comida;
 
 public class Cram extends Comida {
 
-    public Cram(){
+    public Cram() {
         super(2);
     }
 

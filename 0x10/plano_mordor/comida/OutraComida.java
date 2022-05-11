@@ -2,7 +2,7 @@ package comida;
 
 public class OutraComida extends Comida {
 
-    public OutraComida(){
+    public OutraComida() {
         super(-1);
     }
 

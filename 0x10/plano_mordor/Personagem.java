@@ -1,15 +1,12 @@
 import comida.Comida;
 import humor.*;
-
-
 public class Personagem {
 
     private int pontosDeFelicidade;
     private Humor humor;
 
-
     public Humor obterHumorAtual(int pontosDeFelicidade) {
-        if ( pontosDeFelicidade < -5) {
+        if (pontosDeFelicidade < -5) {
             humor = new Irritado();
         } else if (pontosDeFelicidade <= 0) {
             humor = new Triste();
@@ -22,7 +19,7 @@ public class Personagem {
         return humor;
     }
 
-    public void comer(Comida[] comidas){
+    public void comer(Comida[] comidas) {
         for (Comida comida : comidas) {
             pontosDeFelicidade += comida.getPontosDeFelicidade();
         }
