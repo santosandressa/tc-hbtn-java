@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Inteiro">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program08" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program10" />
       <module name="tc-hbtn-java" />
@@ -106,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="workflow.Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="workflow.Program1" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="workflow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.inteiro_positivo.Program" />
+        <item itemvalue="Application.Program08" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program10" />
         <item itemvalue="Application.quadrado.Program" />
-        <item itemvalue="Application.workflow.Program1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,14 +144,7 @@
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
-      <workItem from="1652273634312" duration="11073000" />
-    </task>
-    <task id="LOCAL-00064" summary="task 5 - classe abstrata">
-      <created>1651770214517</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1651770214517</updated>
+      <workItem from="1652273634312" duration="12432000" />
     </task>
     <task id="LOCAL-00065" summary="task 5 - classe abstrata">
       <created>1651770350605</created>
@@ -494,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652289523809</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="0. Inteiro">
+      <created>1652290092214</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1652290092215</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,6 +551,20 @@
           <url>file://$PROJECT_DIR$/0x08/resumo_pedido/Program082.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
+          <line>27</line>
+          <properties class="inteiro_positivo.InteiroPositivo" method="ehPrimo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
