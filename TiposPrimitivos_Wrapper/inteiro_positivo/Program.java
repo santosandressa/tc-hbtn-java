@@ -1,6 +1,4 @@
-package inteiro_positivo;
-
-import inteiro_positivo.InteiroPositivo;
+import InteiroPositivo;
 
 public class Program {
     public static void main(String[] args) {
