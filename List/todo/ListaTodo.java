@@ -1,3 +1,5 @@
+package todo;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -41,7 +43,7 @@ public class ListaTodo {
             }
         }
 
-        return true;
+        return false;
     }
 
     public void desfazerTodas() {
