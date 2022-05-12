@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Inteiro">
-      <change afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/numeros/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Array">
+      <change afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/numeros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,23 +77,23 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.numeros.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pedido_livraria.Program" />
+  <component name="RunManager" selected="Application.cookies.Program">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
       <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pedido_livraria.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
+    <configuration name="cookies.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cookies.Program" />
       <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cookies.Program" />
         <item itemvalue="Application.numeros.Program" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.inteiro_positivo.Program" />
         <item itemvalue="Application.resumo_pedido.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -163,14 +162,7 @@
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
       <workItem from="1652273634312" duration="17975000" />
-      <workItem from="1652359339717" duration="4002000" />
-    </task>
-    <task id="LOCAL-00071" summary="0. Pedido Livraria">
-      <created>1651780279717</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1651780279717</updated>
+      <workItem from="1652359339717" duration="5426000" />
     </task>
     <task id="LOCAL-00072" summary="task 0. Pedido Livraria">
       <created>1651781073235</created>
@@ -508,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652359623980</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="task 0. Array">
+      <created>1652363584267</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1652363584267</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - Divisão inteira" />
     <MESSAGE value="task 0 - Salário" />
     <MESSAGE value="task 1 - livraria" />
     <MESSAGE value="task 2 - Conta Bancária Básica" />
@@ -551,7 +549,8 @@
     <MESSAGE value="task 0. Empregado/Endereço" />
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
     <MESSAGE value="0. Inteiro" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Inteiro" />
+    <MESSAGE value="task 0. Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0. Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
