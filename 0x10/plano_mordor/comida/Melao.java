@@ -6,7 +6,4 @@ public class Melao extends Comida {
         super(1);
     }
 
-    public Melao(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-    }
 }

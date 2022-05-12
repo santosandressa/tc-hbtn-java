@@ -6,7 +6,4 @@ public class Lembas extends Comida {
         super(3);
     }
 
-    public Lembas(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-    }
 }

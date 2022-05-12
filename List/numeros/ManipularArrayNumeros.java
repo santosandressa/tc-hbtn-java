@@ -5,13 +5,8 @@ import java.util.List;
 public class ManipularArrayNumeros {
 
    public static int buscarPosicaoNumero(List<Integer> numeros, int numero) {
-       int posicao = numeros.indexOf(numero);
 
-       if (posicao == -1) {
-           return -1;
-       }
-
-       return posicao;
+       return numeros.indexOf(numero);
    }
 
    public static void adicionarNumero(List<Integer> numeros, int numero) {

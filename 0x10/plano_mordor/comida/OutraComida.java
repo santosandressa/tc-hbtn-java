@@ -6,7 +6,4 @@ public class OutraComida extends Comida {
         super(-1);
     }
 
-    public OutraComida(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-    }
 }

@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Array">
-      <change afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1 cookies">
+      <change afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/numeros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +88,20 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cookies.Program">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Teste" />
       <module name="tc-hbtn-java" />
@@ -118,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="resumo_pedido.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="resumo_pedido.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="resumo_pedido.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.cookies.Program" />
         <item itemvalue="Application.numeros.Program" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.inteiro_positivo.Program" />
-        <item itemvalue="Application.resumo_pedido.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -162,14 +173,7 @@
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
       <workItem from="1652273634312" duration="17975000" />
-      <workItem from="1652359339717" duration="5426000" />
-    </task>
-    <task id="LOCAL-00072" summary="task 0. Pedido Livraria">
-      <created>1651781073235</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1651781073235</updated>
+      <workItem from="1652359339717" duration="9453000" />
     </task>
     <task id="LOCAL-00073" summary="task 0. Pedido Livraria">
       <created>1651781234399</created>
@@ -507,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652363584267</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="task 1 cookies">
+      <created>1652364949323</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1652364949323</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - Salário" />
     <MESSAGE value="task 1 - livraria" />
     <MESSAGE value="task 2 - Conta Bancária Básica" />
     <MESSAGE value="3. Conta Bancária Controlada/Tarifada" />
@@ -550,7 +560,8 @@
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
     <MESSAGE value="0. Inteiro" />
     <MESSAGE value="task 0. Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Array" />
+    <MESSAGE value="task 1 cookies" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 cookies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

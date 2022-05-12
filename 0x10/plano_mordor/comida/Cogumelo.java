@@ -6,7 +6,4 @@ public class Cogumelo extends Comida {
         super(-10);
     }
 
-    public Cogumelo(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-    }
 }

@@ -18,14 +18,6 @@ public class Endereco {
         this.pais = pais;
     }
 
-    public String getLogradouro() {
-        return logradouro;
-    }
-
-    public void setLogradouro(String logradouro) {
-        this.logradouro = logradouro;
-    }
-
     public String getNumero() {
         return numero;
     }

@@ -6,8 +6,4 @@ public class Cram extends Comida {
         super(2);
     }
 
-    public Cram(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-
-    }
 }

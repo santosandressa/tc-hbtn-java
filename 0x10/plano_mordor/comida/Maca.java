@@ -6,7 +6,4 @@ public class Maca extends Comida {
         super(1);
     }
 
-    public Maca(int pontosDeFelicidade) {
-        super(pontosDeFelicidade);
-    }
 }
