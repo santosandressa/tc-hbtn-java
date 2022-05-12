@@ -1,3 +1,4 @@
+package todo;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -5,6 +6,10 @@ import java.util.List;
 public class ListaTodo {
 
     private List<Tarefa> tarefas;
+
+    public ListaTodo(List<Tarefa> tarefas) {
+        this.tarefas = tarefas;
+    }
 
     public ListaTodo() {
         this.tarefas = new ArrayList<>();

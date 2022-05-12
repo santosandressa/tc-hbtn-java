@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1 cookies">
-      <change afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2. Lista TODO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,14 +155,7 @@
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
       <workItem from="1652273634312" duration="17975000" />
-      <workItem from="1652359339717" duration="9453000" />
-    </task>
-    <task id="LOCAL-00073" summary="task 0. Pedido Livraria">
-      <created>1651781234399</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1651781234399</updated>
+      <workItem from="1652359339717" duration="9762000" />
     </task>
     <task id="LOCAL-00074" summary="task 0. Pedido Livraria">
       <created>1651781828088</created>
@@ -518,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652364949323</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="task 2. Lista TODO">
+      <created>1652374393725</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1652374393725</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1 - livraria" />
     <MESSAGE value="task 2 - Conta Bancária Básica" />
     <MESSAGE value="3. Conta Bancária Controlada/Tarifada" />
     <MESSAGE value="task 0 - personagem game" />
@@ -561,7 +542,8 @@
     <MESSAGE value="0. Inteiro" />
     <MESSAGE value="task 0. Array" />
     <MESSAGE value="task 1 cookies" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 cookies" />
+    <MESSAGE value="task 2. Lista TODO" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2. Lista TODO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
