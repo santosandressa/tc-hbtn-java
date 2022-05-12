@@ -1,5 +1,3 @@
-package todo;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,12 +5,8 @@ public class ListaTodo {
 
     private List<Tarefa> tarefas;
 
-    public ListaTodo(List<Tarefa> tarefas) {
-        this.tarefas = tarefas;
-    }
-
     public ListaTodo() {
-        this.tarefas = new ArrayList<>();
+        this.tarefas = new ArrayList<Tarefa>();
     }
 
     public void adicionarTarefa(Tarefa tarefa) {
@@ -65,7 +59,7 @@ public class ListaTodo {
     public void listarTarefas() {
         for (Tarefa tarefa : tarefas) {
 
-            if (tarefa.isEstahFeita() == true) {
+            if (tarefa.isEstahFeita()) {
                 System.out.printf("[X] Id: %d - Descricao: %s\n", tarefa.getIdentificador(), tarefa.getDescricao());
             } else {
                 System.out.printf("[] Id: %d - Descricao: %s\n", tarefa.getIdentificador(), tarefa.getDescricao());
