@@ -41,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/0x02/divisao",
+    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
     "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
@@ -73,7 +73,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.inteiro_positivo.Program">
+  <component name="RunManager" selected="Application.resumo_pedido.Program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tc-hbtn-java" />
@@ -81,15 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program08" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pedido_livraria.Program" />
       <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pedido_livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program10" />
+    <configuration name="Program08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program08" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quadrado.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quadrado.Program" />
+    <configuration name="resumo_pedido.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resumo_pedido.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quadrado.*" />
+          <option name="PATTERN" value="resumo_pedido.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.resumo_pedido.Program" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.inteiro_positivo.Program" />
         <item itemvalue="Application.Program08" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program10" />
-        <item itemvalue="Application.quadrado.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -145,28 +151,7 @@
       <workItem from="1652099913854" duration="8921000" />
       <workItem from="1652117395313" duration="9344000" />
       <workItem from="1652182219721" duration="13477000" />
-      <workItem from="1652273634312" duration="13063000" />
-    </task>
-    <task id="LOCAL-00066" summary="task 5 - classe abstrata">
-      <created>1651772564723</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1651772564723</updated>
-    </task>
-    <task id="LOCAL-00067" summary="task 5 - classe abstrata">
-      <created>1651772661847</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1651772661847</updated>
-    </task>
-    <task id="LOCAL-00068" summary="0. Pedido Livraria">
-      <created>1651779686457</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1651779686457</updated>
+      <workItem from="1652273634312" duration="17975000" />
     </task>
     <task id="LOCAL-00069" summary="0. Pedido Livraria">
       <created>1651779714712</created>
@@ -490,7 +475,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652291501441</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="0. Inteiro">
+      <created>1652291874467</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1652291874467</updated>
+    </task>
+    <task id="LOCAL-00116" summary="0. Inteiro">
+      <created>1652292073275</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1652292073275</updated>
+    </task>
+    <task id="LOCAL-00117" summary="0. Inteiro">
+      <created>1652292110454</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1652292110454</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,20 +558,6 @@
           <url>file://$PROJECT_DIR$/0x08/resumo_pedido/Program082.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
-          <line>26</line>
-          <properties class="inteiro_positivo.InteiroPositivo" method="ehPrimo">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

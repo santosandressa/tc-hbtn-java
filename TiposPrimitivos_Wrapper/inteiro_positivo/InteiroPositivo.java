@@ -18,12 +18,14 @@ public class InteiroPositivo {
 
     public void setValor(int valor) {
 
-        if (valor < 0) {
+        if (valor > 0) {
+            this.valor = valor;
+        }
+       else {
             throw new IllegalArgumentException("Valor nao eh um valor inteiro positivo");
         }
-
-        this.valor = valor;
     }
+
     public boolean ehPrimo() {
         int cont = 0;
 
