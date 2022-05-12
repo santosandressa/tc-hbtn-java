@@ -37,7 +37,7 @@ public class ListaTodo {
         for (Tarefa tarefa : tarefas) {
             if (tarefa.getIdentificador() == identificador) {
                 tarefa.setEstahFeita(false);
-                return false;
+                return true;
             }
         }
 
