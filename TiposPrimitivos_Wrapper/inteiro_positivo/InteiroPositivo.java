@@ -1,3 +1,5 @@
+package inteiro_positivo;
+
 public class InteiroPositivo {
     private int valor;
 
@@ -6,7 +8,7 @@ public class InteiroPositivo {
     }
 
     public InteiroPositivo(String valor) {
-        this.valor = Integer.valueOf(valor);
+        this.valor = Integer.parseInt(valor);
         setValor(this.valor);
     }
 
@@ -32,10 +34,6 @@ public class InteiroPositivo {
             }
         }
 
-         if (cont == 2){
-             return true;
-         }
-
-         return false;
+        return cont == 2;
     }
 }
