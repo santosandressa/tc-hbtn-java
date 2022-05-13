@@ -5,7 +5,7 @@ public class Ex7 {
 
         //Criar dois vetores A e B cada um com 10 elementos inteiros.
         // Construir um vetor C, onde cada elemento de C é a divisão dos respectivos elementos em A e B
-        // ou seja: C[i] = A[i] / float(B[i])
+        // ou seja: C[i] = A[i] - float(B[i])
 
         ArrayList<Integer> vetorA = new ArrayList<>();
         ArrayList<Integer> vetorB = new ArrayList<>();
@@ -22,7 +22,6 @@ public class Ex7 {
         vetorA.add(20);
         vetorA.add(22);
 
-
         vetorB.add(1);
         vetorB.add(2);
         vetorB.add(2);
@@ -34,7 +33,6 @@ public class Ex7 {
         vetorB.add(5);
         vetorB.add(6);
 
-
         System.out.println("Index do vetor A: " + vetorA.size());
         System.out.println("Vetor A: " + vetorA);
         System.out.println();
@@ -43,10 +41,10 @@ public class Ex7 {
         System.out.println();
 
         for (int i= 0; i < vetorB.size(); i++){
-            float resultado = vetorA.get(i) / vetorB.get(i);
+            float resultado = vetorA.get(i) - vetorB.get(i);
 
             vetorC.add((int) resultado);
-            System.out.println(vetorA.get(i) + "/" + vetorB.get(i) + " = " + resultado);
+            System.out.println(vetorA.get(i) + "-" + vetorB.get(i) + " = " + resultado);
         }
 
         System.out.println();
