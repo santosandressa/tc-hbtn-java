@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="exercicios de array">
+      <change afterPath="$PROJECT_DIR$/arrays/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +75,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex4">
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex7">
     <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3" />
       <module name="tc-hbtn-java" />
@@ -105,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex4" />
         <item itemvalue="Application.Ex3" />
-        <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +144,7 @@
       <workItem from="1652273634312" duration="17975000" />
       <workItem from="1652359339717" duration="10754000" />
       <workItem from="1652376813561" duration="5906000" />
-      <workItem from="1652445623968" duration="4416000" />
-    </task>
-    <task id="LOCAL-00082" summary="task 1. Resumo Pedido">
-      <created>1651852983585</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1651852983585</updated>
+      <workItem from="1652445623968" duration="13178000" />
     </task>
     <task id="LOCAL-00083" summary="task 1. Resumo Pedido">
       <created>1651853306003</created>
@@ -490,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652449940660</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="exercicios de array">
+      <created>1652450965657</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1652450965657</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
