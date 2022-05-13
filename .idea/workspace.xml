@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2. Lista TODO" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2. Lista TODO">
+      <change afterPath="$PROJECT_DIR$/List/teste/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/teste/ReturnResponsedto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/teste/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/ListaTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/Teste.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
-    "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/0x06/resumo_pedido&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="quadrado" />
@@ -70,67 +85,49 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="todo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
+  <component name="RunManager" selected="Application.Ex4">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cookies.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cookies.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inteiro_positivo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inteiro_positivo.Program" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numeros.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numeros.Program" />
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3" />
       <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="numeros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.cookies.Program" />
-        <item itemvalue="Application.numeros.Program" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.inteiro_positivo.Program" />
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -156,28 +153,8 @@
       <workItem from="1652182219721" duration="13477000" />
       <workItem from="1652273634312" duration="17975000" />
       <workItem from="1652359339717" duration="10754000" />
-      <workItem from="1652376813561" duration="1579000" />
-    </task>
-    <task id="LOCAL-00078" summary="task 0. Pedido Livraria">
-      <created>1651782042404</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1651782042404</updated>
-    </task>
-    <task id="LOCAL-00079" summary="task 0. Pedido Livraria">
-      <created>1651782075598</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1651782075598</updated>
-    </task>
-    <task id="LOCAL-00080" summary="task 1. Resumo Pedido">
-      <created>1651852558012</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1651852558013</updated>
+      <workItem from="1652376813561" duration="5906000" />
+      <workItem from="1652445623968" duration="3345000" />
     </task>
     <task id="LOCAL-00081" summary="task 1. Resumo Pedido">
       <created>1651852835704</created>
@@ -501,7 +478,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652378366801</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="task 2. Lista TODO">
+      <created>1652378590854</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378590854</updated>
+    </task>
+    <task id="LOCAL-00128" summary="task 2. Lista TODO">
+      <created>1652378641088</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378641088</updated>
+    </task>
+    <task id="LOCAL-00129" summary="task 2. Lista TODO">
+      <created>1652378831687</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1652378831687</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,6 +561,15 @@
           <url>file://$PROJECT_DIR$/0x08/resumo_pedido/Program082.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java</url>
+          <line>18</line>
+          <properties class="inteiro_positivo.InteiroPositivo" method="setValor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
