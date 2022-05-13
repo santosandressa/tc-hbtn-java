@@ -3,6 +3,9 @@ import java.util.ArrayList;
 public class Ex1 {
     public static void main(String[] args) {
 
+        // Crie um vetor A com 5 elementos inteiros.
+        // Crie um vetor B com o mesmo tipo e tamanho e com os mesmos elementos do vetor A.
+
         ArrayList<Integer> elementos = new ArrayList<>();
         elementos.add(1);
         elementos.add(2);

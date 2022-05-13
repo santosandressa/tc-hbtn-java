@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2. Lista TODO">
-      <change afterPath="$PROJECT_DIR$/List/teste/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/teste/ReturnResponsedto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/teste/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="exercicios de array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/ListaTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/Ex4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,14 +145,7 @@
       <workItem from="1652273634312" duration="17975000" />
       <workItem from="1652359339717" duration="10754000" />
       <workItem from="1652376813561" duration="5906000" />
-      <workItem from="1652445623968" duration="3345000" />
-    </task>
-    <task id="LOCAL-00081" summary="task 1. Resumo Pedido">
-      <created>1651852835704</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1651852835705</updated>
+      <workItem from="1652445623968" duration="4416000" />
     </task>
     <task id="LOCAL-00082" summary="task 1. Resumo Pedido">
       <created>1651852983585</created>
@@ -499,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652378831687</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="exercicios de array">
+      <created>1652449940660</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1652449940660</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 2 - Conta Bancária Básica" />
     <MESSAGE value="3. Conta Bancária Controlada/Tarifada" />
     <MESSAGE value="task 0 - personagem game" />
     <MESSAGE value="task 1 - encapsulamento" />
@@ -542,7 +532,8 @@
     <MESSAGE value="task 0. Array" />
     <MESSAGE value="task 1 cookies" />
     <MESSAGE value="task 2. Lista TODO" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2. Lista TODO" />
+    <MESSAGE value="exercicios de array" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios de array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
