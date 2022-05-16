@@ -66,11 +66,11 @@ public class Celular {
             throw new IllegalArgumentException("Nao foi possivel remover contato. Contato nao existe");
         }
 
-        this.contato.remove(posicao);
+        this.contatos.remove(posicao);
     }
 
     public void listarContatos() {
-        for (Contato value : this.contato) {
+        for (Contato value : this.contatos) {
             System.out.println(value.getNome() + " -> " + value.getNumeroTelefone() + " (" + value.getTipoNumero() + ")");
         }
     }
