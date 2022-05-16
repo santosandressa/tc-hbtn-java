@@ -1,3 +1,5 @@
+package celular;
+
 public class Contato {
 
     private String nome;
@@ -35,7 +37,5 @@ public class Contato {
     public void setTipoNumero(TipoNumero tipoNumero) {
         this.tipoNumero = tipoNumero;
     }
-
-
 
 }

@@ -1,3 +1,5 @@
+package celular;
+
 import java.util.ArrayList;
 
 public class Celular {
@@ -39,22 +41,18 @@ public class Celular {
     }
 
     public void atualizarContato(Contato contatoAntigo, Contato novoContato) {
-
-
         for (Contato value : this.contatos) {
 
             if (obterPosicaoContato(novoContato.getNome()) != -1 && obterPosicaoContato(contatoAntigo.getNome()) == -1) {
                 throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato nao existe");
-            }
-
-            if (obterPosicaoContato(novoContato.getNome()) != obterPosicaoContato(contatoAntigo.getNome())) {
+            } else if (obterPosicaoContato(novoContato.getNome()) != obterPosicaoContato(contatoAntigo.getNome())) {
                 throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato jah existente com esse nome");
-            }
-
-            if (value.getNome().equals(contatoAntigo.getNome())) {
-                value.setNome(novoContato.getNome());
-                value.setNumeroTelefone(novoContato.getNumeroTelefone());
-                value.setTipoNumero(novoContato.getTipoNumero());
+            } else {
+                if (value.getNome().equals(contatoAntigo.getNome())) {
+                    value.setNome(novoContato.getNome());
+                    value.setNumeroTelefone(novoContato.getNumeroTelefone());
+                    value.setTipoNumero(novoContato.getTipoNumero());
+                }
             }
         }
     }

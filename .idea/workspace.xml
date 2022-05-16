@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular">
+      <change afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/banco/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +157,7 @@
       <workItem from="1652376813561" duration="5906000" />
       <workItem from="1652445623968" duration="15213000" />
       <workItem from="1652705525318" duration="6976000" />
+      <workItem from="1652717874595" duration="8505000" />
     </task>
     <task id="LOCAL-00102" summary="task 0. Plano de Ataque Mordor">
       <created>1652285696746</created>
