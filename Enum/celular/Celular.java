@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Celular {
 
-    private ArrayList<Contato> contato;
+    private ArrayList<Contato> contato = new ArrayList<Contato>();
 
     public ArrayList<Contato> getContato() {
         return contato;
@@ -12,10 +12,9 @@ public class Celular {
         this.contato = contato;
     }
 
-    public Celular() {
-        this.contato = new ArrayList<Contato>();
+    public Celular(ArrayList<Contato> contato) {
+        this.contato = contato;
     }
-
 
     public int obterPosicaoContato(String nome) {
         for (int i = 0; i < this.contato.size(); i++) {
