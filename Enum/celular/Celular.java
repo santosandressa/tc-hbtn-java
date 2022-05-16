@@ -44,11 +44,11 @@ public class Celular {
         for (Contato value : this.contato) {
 
             if (obterPosicaoContato(novoContato.getNome()) != -1 && obterPosicaoContato(contatoAntigo.getNome()) == -1) {
-                throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato jah existente com esse nome");
+                throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato nao existe");
             }
 
             if (obterPosicaoContato(novoContato.getNome()) != obterPosicaoContato(contatoAntigo.getNome())) {
-                throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato nao existe");
+                throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato jah existente com esse nome");
             }
 
             if (value.getNome().equals(contatoAntigo.getNome())) {
