@@ -1,8 +1,9 @@
+
 import java.util.ArrayList;
 
 public class Celular {
 
-    private ArrayList<Contato> contato;
+    private ArrayList<Contato> contato = new ArrayList<Contato>();
 
     public Celular(){
         this.contato = new ArrayList<Contato>();
