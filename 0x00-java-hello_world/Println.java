@@ -1,5 +1,3 @@
-package trace;
-
 public class Println {
 
     public static void main(String[] args) {
