@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular">
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,35 +148,7 @@
       <workItem from="1652359339717" duration="10754000" />
       <workItem from="1652376813561" duration="5906000" />
       <workItem from="1652445623968" duration="15213000" />
-      <workItem from="1652705525318" duration="6341000" />
-    </task>
-    <task id="LOCAL-00094" summary="task 0. workflow">
-      <created>1652120468645</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1652120468645</updated>
-    </task>
-    <task id="LOCAL-00095" summary="task 1. Frete">
-      <created>1652125410218</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1652125410218</updated>
-    </task>
-    <task id="LOCAL-00096" summary="task 1. Frete">
-      <created>1652125572277</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1652125572277</updated>
-    </task>
-    <task id="LOCAL-00097" summary="task 1. Frete">
-      <created>1652125706883</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1652125706883</updated>
+      <workItem from="1652705525318" duration="6667000" />
     </task>
     <task id="LOCAL-00098" summary="task 1. Frete">
       <created>1652125749127</created>
@@ -493,7 +465,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652712316294</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="task 0. Celular">
+      <created>1652712383038</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712383038</updated>
+    </task>
+    <task id="LOCAL-00144" summary="task 0. Celular">
+      <created>1652712413678</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712413678</updated>
+    </task>
+    <task id="LOCAL-00145" summary="task 0. Celular">
+      <created>1652712459981</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712459982</updated>
+    </task>
+    <task id="LOCAL-00146" summary="task 0. Celular">
+      <created>1652712599880</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712599880</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
