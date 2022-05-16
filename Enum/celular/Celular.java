@@ -2,27 +2,27 @@ import java.util.ArrayList;
 
 public class Celular {
 
-    private ArrayList<Contato> contato = new ArrayList<Contato>();
+    private ArrayList<Contato> contatos = new ArrayList<Contato>();
 
     public Celular(){
         this.contato = new ArrayList<Contato>();
     }
 
     public ArrayList<Contato> getContato() {
-        return contato;
+        return contatos;
     }
 
     public void setContato(ArrayList<Contato> contato) {
-        this.contato = contato;
+        this.contatos = contato;
     }
 
     public Celular(ArrayList<Contato> contato) {
-        this.contato = contato;
+        this.contatos = contato;
     }
 
     public int obterPosicaoContato(String nome) {
-        for (int i = 0; i < this.contato.size(); i++) {
-            if (this.contato.get(i).getNome().equals(nome)) {
+        for (int i = 0; i < this.contatos.size(); i++) {
+            if (this.contatos.get(i).getNome().equals(nome)) {
                 return i;
             }
         }
@@ -32,7 +32,7 @@ public class Celular {
     public void adicionarContato(Contato contato) {
 
         if (this.obterPosicaoContato(contato.getNome()) == -1) {
-            this.contato.add(contato);
+            this.contatos.add(contato);
         } else {
             throw new IllegalArgumentException("Nao foi possivel adicionar contato. Contato jah existente com esse nome");
         }
@@ -41,7 +41,7 @@ public class Celular {
     public void atualizarContato(Contato contatoAntigo, Contato novoContato) {
 
 
-        for (Contato value : this.contato) {
+        for (Contato value : this.contatos) {
 
             if (obterPosicaoContato(novoContato.getNome()) != -1 && obterPosicaoContato(contatoAntigo.getNome()) == -1) {
                 throw new IllegalArgumentException("Nao foi possivel modificar contato. Contato nao existe");
