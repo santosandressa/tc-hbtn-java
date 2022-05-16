@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular">
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,42 +148,7 @@
       <workItem from="1652359339717" duration="10754000" />
       <workItem from="1652376813561" duration="5906000" />
       <workItem from="1652445623968" duration="15213000" />
-      <workItem from="1652705525318" duration="6041000" />
-    </task>
-    <task id="LOCAL-00089" summary="task 0. Logging">
-      <created>1652106775231</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1652106775231</updated>
-    </task>
-    <task id="LOCAL-00090" summary="task 0. Logging">
-      <created>1652106813130</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1652106813130</updated>
-    </task>
-    <task id="LOCAL-00091" summary="task 0. workflow">
-      <created>1652120284985</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1652120284985</updated>
-    </task>
-    <task id="LOCAL-00092" summary="task 0. workflow">
-      <created>1652120360261</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1652120360261</updated>
-    </task>
-    <task id="LOCAL-00093" summary="task 0. workflow">
-      <created>1652120433957</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1652120433958</updated>
+      <workItem from="1652705525318" duration="6341000" />
     </task>
     <task id="LOCAL-00094" summary="task 0. workflow">
       <created>1652120468645</created>
@@ -491,7 +458,42 @@
       <option name="project" value="LOCAL" />
       <updated>1652712000990</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="task 0. Celular">
+      <created>1652712042688</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712042689</updated>
+    </task>
+    <task id="LOCAL-00139" summary="task 0. Celular">
+      <created>1652712082584</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712082584</updated>
+    </task>
+    <task id="LOCAL-00140" summary="task 0. Celular">
+      <created>1652712139436</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712139436</updated>
+    </task>
+    <task id="LOCAL-00141" summary="task 0. Celular">
+      <created>1652712279864</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712279864</updated>
+    </task>
+    <task id="LOCAL-00142" summary="task 0. Celular">
+      <created>1652712316293</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712316294</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
