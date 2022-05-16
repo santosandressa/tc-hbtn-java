@@ -148,35 +148,7 @@
       <workItem from="1652359339717" duration="10754000" />
       <workItem from="1652376813561" duration="5906000" />
       <workItem from="1652445623968" duration="15213000" />
-      <workItem from="1652705525318" duration="6667000" />
-    </task>
-    <task id="LOCAL-00098" summary="task 1. Frete">
-      <created>1652125749127</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1652125749127</updated>
-    </task>
-    <task id="LOCAL-00099" summary="task 0. Empregado/Endereço">
-      <created>1652205501545</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1652205501545</updated>
-    </task>
-    <task id="LOCAL-00100" summary="task 0. Empregado/Endereço">
-      <created>1652206043849</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1652206043849</updated>
-    </task>
-    <task id="LOCAL-00101" summary="task 0. Empregado/Endereço">
-      <created>1652208530863</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1652208530863</updated>
+      <workItem from="1652705525318" duration="6976000" />
     </task>
     <task id="LOCAL-00102" summary="task 0. Plano de Ataque Mordor">
       <created>1652285696746</created>
@@ -493,7 +465,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652712599880</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="task 0. Celular">
+      <created>1652712667978</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712667978</updated>
+    </task>
+    <task id="LOCAL-00148" summary="task 0. Celular">
+      <created>1652712807910</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712807910</updated>
+    </task>
+    <task id="LOCAL-00149" summary="task 0. Celular">
+      <created>1652712880632</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712880632</updated>
+    </task>
+    <task id="LOCAL-00150" summary="task 0. Celular">
+      <created>1652712928196</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712928196</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

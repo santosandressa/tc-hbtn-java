@@ -5,7 +5,7 @@ public class Celular {
     private ArrayList<Contato> contatos = new ArrayList<Contato>();
 
     public Celular(){
-        this.contato = new ArrayList<Contato>();
+        this.contatos = new ArrayList<Contato>();
     }
 
     public ArrayList<Contato> getContato() {
