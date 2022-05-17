@@ -21,7 +21,7 @@ public class Agencia {
 
 
     public boolean novoCliente(String nomeCliente, double valorTransacaoInicial) {
-        Cliente clienteExistente = buscaCliente(nomeCliente);
+        Cliente clienteExistente = buscarCliente(nomeCliente);
 
         if (clienteExistente != null) {
             return false;
@@ -33,7 +33,7 @@ public class Agencia {
         return true;
     }
 
-    public Cliente buscaCliente(String nomeCliente) {
+    public Cliente buscarCliente(String nomeCliente) {
 
         for (Cliente cliente : this.clientes) {
             if (cliente.getNome().equals(nomeCliente)) {
@@ -44,7 +44,7 @@ public class Agencia {
     }
 
     public boolean adicionarTransacaoCliente(String nomeCliente, double valorTransacao){
-        Cliente clienteExistente = buscaCliente(nomeCliente);
+        Cliente clienteExistente = buscarCliente(nomeCliente);
 
         if(clienteExistente == null){
             return false;
