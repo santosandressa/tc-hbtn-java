@@ -1,5 +1,3 @@
-package banco;
-
 import java.util.ArrayList;
 
 public class Agencia {
@@ -35,7 +33,7 @@ public class Agencia {
         return true;
     }
 
-    private Cliente buscaCliente(String nomeCliente) {
+    public Cliente buscaCliente(String nomeCliente) {
 
         for (Cliente cliente : this.clientes) {
             if (cliente.getNome().equals(nomeCliente)) {

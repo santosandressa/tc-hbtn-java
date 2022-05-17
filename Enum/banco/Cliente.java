@@ -1,5 +1,3 @@
-package banco;
-
 import java.util.ArrayList;
 
 public class Cliente {

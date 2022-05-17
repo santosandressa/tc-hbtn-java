@@ -1,5 +1,3 @@
-package banco;
-
 import java.util.ArrayList;
 
 public class Banco {
@@ -31,8 +29,8 @@ public class Banco {
 
     public Agencia buscarAgencia(String nome) {
 
-        for (Agencia agencia : agencias) {
-            if (agencia.equals(nome)) {
+        for (Agencia agencia : this.agencias) {
+            if (agencia.getNome().equals(nome)) {
                 return agencia;
             }
         }
@@ -40,13 +38,17 @@ public class Banco {
         return null;
     }
 
-    public boolean adicionarAgencia(String nome){
-       if (buscarAgencia(nome) == null && !buscarAgencia(nome).equals(nome)){
-           agencias.add(new Agencia(nome));
-           return true;
-       } else {
-           return false;
-       }
+    public boolean adicionarAgencia(String nomeAgencia){
+        Agencia agenciaExistente = buscarAgencia(nomeAgencia);
+
+        if (agenciaExistente != null){
+            return false;
+        }
+
+        Agencia novaAgencia = new Agencia(nomeAgencia);
+        agencias.add(novaAgencia);
+
+        return true;
     }
 
     public boolean adicionarCliente(String nomeAgencia, String nomeCliente, double valorTransacao){
@@ -58,6 +60,41 @@ public class Banco {
         }
 
         agenciaExistente.novoCliente(nomeCliente, valorTransacao);
+        agenciaExistente.adicionarTransacaoCliente(nomeCliente, valorTransacao);
+
+        return true;
+    }
+
+    public boolean listarClientes(String nomeAgencia, boolean imprimirTransacoes){
+        Agencia agenciaExistente = buscarAgencia(nomeAgencia);
+
+        if (agenciaExistente == null){
+            return false;
+        }
+
+      for (int i = 0; i < agenciaExistente.getClientes().size(); i++) {
+          Cliente clienteExistente = agenciaExistente.getClientes().get(i);
+
+          System.out.println("Cliente: " + clienteExistente.getNome() + " [" + (i + 1) + "]");
+
+          if (imprimirTransacoes) {
+              for (int j = 0; j < clienteExistente.getTransacoes().size(); j++) {
+                  System.out.println("  [" + (j + 1) + "] valor " + clienteExistente.getTransacoes().get(j));
+              }
+          }
+
+      }
+
+      return true;
+    }
+
+    public boolean adicionarTransacaoCliente(String nomeAgencia, String nomeCliente, double valorTransacao){
+        Agencia agenciaExistente = buscarAgencia(nomeAgencia);
+
+        if (agenciaExistente == null){
+            return false;
+        }
+
         agenciaExistente.adicionarTransacaoCliente(nomeCliente, valorTransacao);
 
         return true;

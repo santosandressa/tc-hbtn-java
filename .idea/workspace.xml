@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular">
-      <change afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum/banco/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Agencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
@@ -80,14 +79,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.banco.Program">
     <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5" />
       <module name="tc-hbtn-java" />
@@ -122,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="banco.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banco.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="banco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.banco.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Ex7" />
         <item itemvalue="Application.Ex6" />
         <item itemvalue="Application.Ex5" />
-        <item itemvalue="Application.Ex4" />
       </list>
     </recent_temporary>
   </component>
@@ -157,21 +162,8 @@
       <workItem from="1652376813561" duration="5906000" />
       <workItem from="1652445623968" duration="15213000" />
       <workItem from="1652705525318" duration="6976000" />
-      <workItem from="1652717874595" duration="8505000" />
-    </task>
-    <task id="LOCAL-00102" summary="task 0. Plano de Ataque Mordor">
-      <created>1652285696746</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1652285696746</updated>
-    </task>
-    <task id="LOCAL-00103" summary="task 0. Plano de Ataque Mordor">
-      <created>1652286132908</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1652286132908</updated>
+      <workItem from="1652717874595" duration="9378000" />
+      <workItem from="1652789210813" duration="4557000" />
     </task>
     <task id="LOCAL-00104" summary="0. Inteiro">
       <created>1652288386587</created>
@@ -502,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652712928196</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="task 0. Celular">
+      <created>1652730728974</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1652730728974</updated>
+    </task>
+    <task id="LOCAL-00152" summary="task 0. Celular">
+      <created>1652730781334</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1652730781334</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
