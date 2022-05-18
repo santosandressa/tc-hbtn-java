@@ -1,6 +1,4 @@
 
-import AnalisadorFrase;
-
 import java.util.TreeMap;
 
 public class Program {
