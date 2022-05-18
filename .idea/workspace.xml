@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Duplicados">
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,14 +77,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Exemplo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exemplo5" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.telefones.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicados.Program" />
       <module name="tc-hbtn-java" />
@@ -89,13 +87,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeMapEx" />
-      <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,13 +105,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="celular.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="celular.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="celular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="telefones.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telefones.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telefones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.telefones.Program" />
+        <item itemvalue="Application.celular.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.TreeSetEx" />
         <item itemvalue="Application.analisador_frase.Program" />
-        <item itemvalue="Application.TreeMapEx" />
-        <item itemvalue="Application.Exemplo5" />
       </list>
     </recent_temporary>
   </component>
@@ -151,21 +168,7 @@
       <workItem from="1652705525318" duration="6976000" />
       <workItem from="1652717874595" duration="9378000" />
       <workItem from="1652789210813" duration="8522000" />
-      <workItem from="1652876251754" duration="6341000" />
-    </task>
-    <task id="LOCAL-00111" summary="0. Inteiro">
-      <created>1652289305178</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1652289305178</updated>
-    </task>
-    <task id="LOCAL-00112" summary="0. Inteiro">
-      <created>1652289523809</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1652289523809</updated>
+      <workItem from="1652876251754" duration="8451000" />
     </task>
     <task id="LOCAL-00113" summary="0. Inteiro">
       <created>1652290092214</created>
@@ -496,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652892325880</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="1. Duplicados">
+      <created>1652892363395</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892363395</updated>
+    </task>
+    <task id="LOCAL-00161" summary="1. Duplicados">
+      <created>1652892432391</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892432391</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
