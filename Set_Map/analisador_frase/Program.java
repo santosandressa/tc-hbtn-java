@@ -1,5 +1,6 @@
 import java.util.TreeMap;
 
+@SuppressWarnings("unchecked")
 public class Program {
     public static void main(String[] args) {
         TreeMap<String, Integer> contagemFrase1 = AnalisadorFrase.contagemPalavras("Tres pratos de trigo para tres tigres tristes");
