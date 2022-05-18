@@ -1,5 +1,6 @@
 import java.util.TreeSet;
 
+@SuppressWarnings("unchecked")
 public class Program {
     public static void main(String[] args) {
         TreeSet<Integer> duplicados1 = NumerosDuplicados.buscar(new int[] {1, 2, 3, 1, 3, 2, 5, 8, 9, 6, 7, 6, 1, 2});
