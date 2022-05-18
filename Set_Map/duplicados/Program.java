@@ -1,5 +1,3 @@
-package duplicados;
-
 import java.util.TreeSet;
 
 public class Program {

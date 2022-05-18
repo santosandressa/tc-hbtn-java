@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Contagem de Palavras">
-      <change afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collectionssetmap/TreeSetEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Duplicados">
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,14 +151,7 @@
       <workItem from="1652705525318" duration="6976000" />
       <workItem from="1652717874595" duration="9378000" />
       <workItem from="1652789210813" duration="8522000" />
-      <workItem from="1652876251754" duration="6029000" />
-    </task>
-    <task id="LOCAL-00110" summary="0. Inteiro">
-      <created>1652289282788</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1652289282788</updated>
+      <workItem from="1652876251754" duration="6341000" />
     </task>
     <task id="LOCAL-00111" summary="0. Inteiro">
       <created>1652289305178</created>
@@ -501,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652883867735</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="1. Duplicados">
+      <created>1652892325880</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1652892325880</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 2 - métodos" />
     <MESSAGE value="task 3 - status do personagemn" />
     <MESSAGE value="task 4 - conscistencia" />
     <MESSAGE value="task 0 - herança" />
@@ -544,7 +538,8 @@
     <MESSAGE value="task 0. Celular" />
     <MESSAGE value="task 1. Banco" />
     <MESSAGE value="0. Contagem de Palavras" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Contagem de Palavras" />
+    <MESSAGE value="1. Duplicados" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Duplicados" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
