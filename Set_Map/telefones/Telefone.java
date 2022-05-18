@@ -1,4 +1,3 @@
-package telefones;
 public class Telefone {
 
     private String codigoArea;
