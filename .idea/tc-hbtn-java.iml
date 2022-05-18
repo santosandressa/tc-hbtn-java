@@ -26,6 +26,8 @@
       <sourceFolder url="file://$MODULE_DIR$/List" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Enum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collectionssetmap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Set_Map" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

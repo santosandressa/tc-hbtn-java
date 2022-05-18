@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Celular">
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 1. Banco">
+      <change afterPath="$PROJECT_DIR$/Set_Map/AnalisadorFrase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/CollectionsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/Exemplo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/Exemplo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionssetmap/TreeMapEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/banco/Agencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Enum/banco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,61 +86,49 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.banco.Program">
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5" />
+  <component name="RunManager" selected="Application.analisador_frase.Program">
+    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo1" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6" />
+    <configuration name="Exemplo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo4" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7" />
+    <configuration name="Exemplo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo5" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="celular.Program" />
+    <configuration name="TreeMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeMapEx" />
       <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="celular.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="banco.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="banco.Program" />
+    <configuration name="analisador_frase.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="analisador_frase.Program" />
       <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="banco.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.banco.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Ex7" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.analisador_frase.Program" />
+        <item itemvalue="Application.TreeMapEx" />
+        <item itemvalue="Application.Exemplo5" />
+        <item itemvalue="Application.Exemplo4" />
+        <item itemvalue="Application.Exemplo1" />
       </list>
     </recent_temporary>
   </component>
@@ -163,21 +158,8 @@
       <workItem from="1652445623968" duration="15213000" />
       <workItem from="1652705525318" duration="6976000" />
       <workItem from="1652717874595" duration="9378000" />
-      <workItem from="1652789210813" duration="4557000" />
-    </task>
-    <task id="LOCAL-00104" summary="0. Inteiro">
-      <created>1652288386587</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1652288386587</updated>
-    </task>
-    <task id="LOCAL-00105" summary="0. Inteiro">
-      <created>1652288461210</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1652288461210</updated>
+      <workItem from="1652789210813" duration="8522000" />
+      <workItem from="1652876251754" duration="3584000" />
     </task>
     <task id="LOCAL-00106" summary="0. Inteiro">
       <created>1652288512026</created>
@@ -508,7 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652730781334</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="task 1. Banco">
+      <created>1652805793276</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1652805793277</updated>
+    </task>
+    <task id="LOCAL-00154" summary="task 1. Banco">
+      <created>1652805880912</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1652805880912</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - personagem game" />
     <MESSAGE value="task 1 - encapsulamento" />
     <MESSAGE value="task 2 - métodos" />
     <MESSAGE value="task 3 - status do personagemn" />
@@ -551,7 +546,8 @@
     <MESSAGE value="task 2. Lista TODO" />
     <MESSAGE value="exercicios de array" />
     <MESSAGE value="task 0. Celular" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Celular" />
+    <MESSAGE value="task 1. Banco" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1. Banco" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
