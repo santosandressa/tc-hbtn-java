@@ -18,6 +18,7 @@ public class Blog {
         for (Post postagem : postagens) {
             autores.add(postagem.getAutor());
         }
+
         return autores;
     }
 
@@ -35,8 +36,6 @@ public class Blog {
             contagem.put(categoria, contador);
         }
 
-        SortedMap<String, Integer> resultado = new TreeMap<>(contagem);
-
-        return resultado;
+        return new TreeMap<>(contagem);
     }
 }
