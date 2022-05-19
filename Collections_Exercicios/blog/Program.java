@@ -1,5 +1,3 @@
-package blog;
-
 import java.util.Map;
 import java.util.Set;
 
@@ -41,6 +39,11 @@ public class Program {
         Set<String> autores = blog1.obterTodosAutores();
 
         System.out.println(autores);
+
+
+        Map<String, Integer> contagem = blog1.obterContagemPorCategoria();
+
+        System.out.println(contagem);
 
     }
 }

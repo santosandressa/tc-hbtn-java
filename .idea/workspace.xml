@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3. Telefones Duplicados">
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/AnalisadorFrase.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/AnalisadorFrase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/NumerosDuplicados.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/NumerosDuplicados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/Program.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,14 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.analisador_frase.Program">
+  <component name="RunManager" selected="Application.blog.Program">
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="analisador_frase.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="analisador_frase.Program" />
       <module name="tc-hbtn-java" />
@@ -96,19 +101,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="blog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="celular.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="celular.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="celular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.analisador_frase.Program" />
         <item itemvalue="Application.blog.Program" />
+        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.analisador_frase.Program" />
         <item itemvalue="Application.telefones_duplicados.Program" />
         <item itemvalue="Application.telefones.Program" />
-        <item itemvalue="Application.celular.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -180,21 +172,8 @@
       <workItem from="1652717874595" duration="9378000" />
       <workItem from="1652789210813" duration="8522000" />
       <workItem from="1652876251754" duration="10595000" />
-      <workItem from="1652962790056" duration="7680000" />
-    </task>
-    <task id="LOCAL-00118" summary="0. Inteiro">
-      <created>1652359553589</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1652359553589</updated>
-    </task>
-    <task id="LOCAL-00119" summary="0. Inteiro">
-      <created>1652359623980</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1652359623980</updated>
+      <workItem from="1652962790056" duration="10233000" />
+      <workItem from="1652990320677" duration="1291000" />
     </task>
     <task id="LOCAL-00120" summary="task 0. Array">
       <created>1652363584267</created>
@@ -525,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652966567171</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="task 3. Telefones Duplicados">
+      <created>1652979728294</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1652979728294</updated>
+    </task>
+    <task id="LOCAL-00168" summary="task 3. Telefones Duplicados">
+      <created>1652979786166</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1652979786166</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
