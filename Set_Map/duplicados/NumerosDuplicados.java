@@ -1,10 +1,8 @@
-package duplicados;
-
 import java.util.*;
 
 public class NumerosDuplicados {
 
-    public static TreeSet buscar(int[] numeros) {
+    public static TreeSet<Integer> buscar(int[] numeros) {
 
         List<Integer> list = new ArrayList<>();
 
