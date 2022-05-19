@@ -2,175 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 2. telefones">
-      <change afterPath="$PROJECT_DIR$/poo/Luta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo/Lutador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Caractere.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/CollectionsEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Empregado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Endereco.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Ex7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Exemplo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Exemplo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Exemplo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Exemplo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Exemplo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Luta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Lutador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/MaquinaWorkflow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Numero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Numero1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Numeros0a99.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/NumerosPares.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Pedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Personagem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintFloatVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintFormatacaoNumeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintIntegerVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintStringConcat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/PrintStringVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Println.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/ProcessadorPedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program082.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program09.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Program4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Quadrado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/TreeMapEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/TreeSetEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Valores.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/Workflow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/abstrata/FormaGeometrica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/abstrata/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/abstrata/Quadrado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/abstrata/Retangulo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/AnalisadorFrase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/atividades/Atividade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/atividades/CarregarVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/atividades/CodificarVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/atividades/EnviarEmail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/atividades/ModificarStatusVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/banco/Agencia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/banco/Banco.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/banco/Cliente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/banco/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/celular/Celular.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/celular/Contato.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/celular/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/celular/TipoNumero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/BoloDeMel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Cogumelo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Comida.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Cram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Lembas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Maca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/Melao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/comida/OutraComida.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/consistencia/PersonagemGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/consistencia/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/conta_basica/ContaBancariaBasica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/conta_basica/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/conta_basica/exceptions/OperacaoInvalidaException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/contas_especiais/ContaBancariaBasica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/contas_especiais/ContaBancariaControlada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/contas_especiais/ContaBancariaTarifada.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/contas_especiais/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/contas_especiais/exceptions/OperacaoInvalidaException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/cookies/Pedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/cookies/PedidoCookie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/cookies/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/NumerosDuplicados.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/encapsulamento/PersonagemGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/encapsulamento/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/forma/FormaGeometrica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/forma/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/heranca/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/heranca/Cachorro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/heranca/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/humor/Feliz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/humor/Humor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/humor/Irritado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/humor/MuitoFeliz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/humor/Triste.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/inteiro_positivo/InteiroPositivo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/inteiro_positivo/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/livraria/Livro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/livraria/LivroEdicaoOuro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/livraria/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/livraria/exceptions/AutorInvalidoException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/livraria/exceptions/LivroInvalidoException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/metodos/PersonagemGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/metodos/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/numeros/ManipularArrayNumeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/numeros/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/ItemPedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/Pedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/produtos/Dvd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/produtos/Livro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/pedido_livraria/produtos/Produto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/personagem/PersonagemGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/personagem/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/Frete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/JadLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/Loggi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/ProvedorFrete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/Sedex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/provedores/TipoProvedorFrete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quadrado/FormaGeometrica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quadrado/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quadrado/Quadrado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quadrado/Retangulo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/ItemPedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/Pedido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/produtos/Dvd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/produtos/Livro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/resumo_pedido/produtos/Produto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo/FormaGeometrica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo/Retangulo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo_completo/FormaGeometrica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo_completo/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/retangulo_completo/Retangulo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/salario/Departamento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/salario/Empregado.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/salario/Gerente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/salario/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/status/PersonagemGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/status/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/telefones/ListaTelefonica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/telefones/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/telefones/Telefone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/teste/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/teste/ReturnResponsedto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/teste/Teste.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/todo/ListaTodo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/todo/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/todo/Tarefa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/CanalNotificacao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Email.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/FormatoVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Mensagem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/ProcessadorVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Program1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Slack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Sms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Teams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/TipoMensagem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/workflow/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/telefones/Telefone.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/telefones/Telefone.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +82,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.telefones.Program">
+  <component name="RunManager" selected="Application.telefones_duplicados.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicados.Program" />
       <module name="tc-hbtn-java" />
@@ -250,13 +92,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeSetEx" />
-      <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -294,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="telefones_duplicados.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telefones_duplicados.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telefones_duplicados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.telefones_duplicados.Program" />
+        <item itemvalue="Application.analisador_frase.Program" />
         <item itemvalue="Application.telefones.Program" />
         <item itemvalue="Application.celular.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.TreeSetEx" />
-        <item itemvalue="Application.analisador_frase.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -331,21 +179,8 @@
       <workItem from="1652705525318" duration="6976000" />
       <workItem from="1652717874595" duration="9378000" />
       <workItem from="1652789210813" duration="8522000" />
-      <workItem from="1652876251754" duration="8765000" />
-    </task>
-    <task id="LOCAL-00115" summary="0. Inteiro">
-      <created>1652291874467</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1652291874467</updated>
-    </task>
-    <task id="LOCAL-00116" summary="0. Inteiro">
-      <created>1652292073275</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1652292073275</updated>
+      <workItem from="1652876251754" duration="10595000" />
+      <workItem from="1652962790056" duration="2882000" />
     </task>
     <task id="LOCAL-00117" summary="0. Inteiro">
       <created>1652292110454</created>
@@ -676,7 +511,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652896112053</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="task 2. telefones">
+      <created>1652896138474</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1652896138474</updated>
+    </task>
+    <task id="LOCAL-00165" summary="task 2. telefones">
+      <created>1652896169543</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1652896169543</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

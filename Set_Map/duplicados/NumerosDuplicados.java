@@ -4,23 +4,22 @@ import java.util.*;
 
 public class NumerosDuplicados {
 
-    public static TreeSet buscar(int[] numeros){
+    public static TreeSet buscar(int[] numeros) {
 
-        List<Integer> list  = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
-       for (int numero : numeros){
-           list.add(numero);
-       }
+        for (int numero : numeros) {
+            list.add(numero);
+        }
 
         Set<Integer> numerosDuplicados = new HashSet<>();
 
-       for (int numero : list){
-           if(Collections.frequency(list, numero) > 1){
-               numerosDuplicados.add(numero);
-           }
-       }
+        for (int numero : list) {
+            if (Collections.frequency(list, numero) > 1) {
+                numerosDuplicados.add(numero);
+            }
+        }
 
         return new TreeSet<>(numerosDuplicados);
-
     }
 }

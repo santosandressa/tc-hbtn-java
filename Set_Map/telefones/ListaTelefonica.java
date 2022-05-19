@@ -1,3 +1,5 @@
+package telefones;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -24,5 +26,4 @@ public class ListaTelefonica {
     public ArrayList<Telefone> buscar(String nome) {
         return this.listaTelefonica.get(nome);
     }
-
 }

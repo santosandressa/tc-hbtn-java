@@ -22,7 +22,6 @@ public class AnalisadorFrase {
 
             map.put(s.toLowerCase(), contador);
             contador = 0;
-
         }
 
         return map;
