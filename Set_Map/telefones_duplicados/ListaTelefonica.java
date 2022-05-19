@@ -1,3 +1,5 @@
+package telefones_duplicados;
+
 import java.util.HashMap;
 import java.util.HashSet;
 

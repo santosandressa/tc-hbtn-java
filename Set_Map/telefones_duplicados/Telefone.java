@@ -1,3 +1,5 @@
+package telefones_duplicados;
+
 import java.util.Objects;
 
 public class Telefone {

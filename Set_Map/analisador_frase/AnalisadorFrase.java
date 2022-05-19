@@ -1,9 +1,7 @@
-package analisador_frase;
-
 import java.util.TreeMap;
 
 public class AnalisadorFrase {
-    public static TreeMap contagemPalavras(String frase) {
+    public static TreeMap<String, Integer> contagemPalavras(String frase) {
         TreeMap<String, Integer> map = new TreeMap<>();
 
         frase = frase.replace("?", "");
@@ -11,6 +9,7 @@ public class AnalisadorFrase {
         frase = frase.replace(".", "");
 
         String[] palavras = frase.split(" ");
+
         int contador = 0;
 
         for (String s : palavras) {
