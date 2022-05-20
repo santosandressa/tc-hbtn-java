@@ -1,5 +1,3 @@
-package postagem_blog;
-
 import java.util.Objects;
 
 public class Post implements Comparable<Post>{
