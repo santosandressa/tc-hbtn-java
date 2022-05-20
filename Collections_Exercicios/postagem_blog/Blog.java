@@ -1,6 +1,3 @@
-import Post;
-import Autor;
-import Categorias;
 
 import java.util.*;
 
