@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Blog">
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Postagens Blog" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,14 +158,7 @@
       <workItem from="1652876251754" duration="10595000" />
       <workItem from="1652962790056" duration="10233000" />
       <workItem from="1652990320677" duration="2440000" />
-      <workItem from="1653049335486" duration="13622000" />
-    </task>
-    <task id="LOCAL-00122" summary="task 2. Lista TODO">
-      <created>1652374393725</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1652374393725</updated>
+      <workItem from="1653049335486" duration="13924000" />
     </task>
     <task id="LOCAL-00123" summary="task 2. Lista TODO">
       <created>1652374527145</created>
@@ -513,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652991767077</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="1. Postagens Blog">
+      <created>1653076841391</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1653076841391</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1 - forma geometrica" />
     <MESSAGE value="task 2 - retângulo" />
     <MESSAGE value="task 3 - retângulo completo" />
     <MESSAGE value="task 4 - quadrado" />
@@ -556,7 +545,8 @@
     <MESSAGE value="task 2. telefones" />
     <MESSAGE value="task 3. Telefones Duplicados" />
     <MESSAGE value="task 0. Blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 0. Blog" />
+    <MESSAGE value="1. Postagens Blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Postagens Blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
