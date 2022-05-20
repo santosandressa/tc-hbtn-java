@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 3. Telefones Duplicados">
-      <change afterPath="$PROJECT_DIR$/poo/PrimeNumbers.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="task 0. Blog">
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/analisador_frase/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/NumerosDuplicados.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/NumerosDuplicados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/duplicados/Program.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,9 +80,29 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.blog.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postagem_blog.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="postagem_blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SOlutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOlutions" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="telefones.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="telefones.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="telefones.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="telefones_duplicados.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="telefones_duplicados.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="telefones_duplicados.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.SOlutions" />
         <item itemvalue="Application.blog.Program" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.analisador_frase.Program" />
-        <item itemvalue="Application.telefones_duplicados.Program" />
-        <item itemvalue="Application.telefones.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -173,21 +167,8 @@
       <workItem from="1652789210813" duration="8522000" />
       <workItem from="1652876251754" duration="10595000" />
       <workItem from="1652962790056" duration="10233000" />
-      <workItem from="1652990320677" duration="1291000" />
-    </task>
-    <task id="LOCAL-00120" summary="task 0. Array">
-      <created>1652363584267</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1652363584267</updated>
-    </task>
-    <task id="LOCAL-00121" summary="task 1 cookies">
-      <created>1652364949323</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1652364949323</updated>
+      <workItem from="1652990320677" duration="2440000" />
+      <workItem from="1653049335486" duration="13622000" />
     </task>
     <task id="LOCAL-00122" summary="task 2. Lista TODO">
       <created>1652374393725</created>
@@ -518,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652979786166</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="task 0. Blog">
+      <created>1652991660713</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1652991660713</updated>
+    </task>
+    <task id="LOCAL-00170" summary="task 0. Blog">
+      <created>1652991767077</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1652991767077</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0 - herança" />
     <MESSAGE value="task 1 - forma geometrica" />
     <MESSAGE value="task 2 - retângulo" />
     <MESSAGE value="task 3 - retângulo completo" />
@@ -561,7 +555,8 @@
     <MESSAGE value="1. Duplicados" />
     <MESSAGE value="task 2. telefones" />
     <MESSAGE value="task 3. Telefones Duplicados" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3. Telefones Duplicados" />
+    <MESSAGE value="task 0. Blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 0. Blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
