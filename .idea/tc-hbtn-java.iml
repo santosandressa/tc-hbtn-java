@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/collectionssetmap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Set_Map" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Collections_Exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generics" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

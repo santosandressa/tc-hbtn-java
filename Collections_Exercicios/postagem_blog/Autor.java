@@ -1,3 +1,5 @@
+package postagem_blog;
+
 import java.util.Objects;
 
 public class Autor implements Comparable<Autor> {
