@@ -3,12 +3,8 @@ public class Video extends Midia{
     private int duracao;
 
     public Video(String nome, int duracao) {
-        super(nome);
+        this.setNome(nome);
         this.duracao = duracao;
-    }
-
-    public Video(String nome) {
-        super(nome);
     }
 
     public int getDuracao() {
