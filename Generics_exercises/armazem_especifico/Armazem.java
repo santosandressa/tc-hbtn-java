@@ -1,11 +1,8 @@
-package armazem;
-
 import java.util.HashMap;
 import java.util.Map;
 
-public class Armazem<T> implements Armazenavel<T>{
-
-    private Map<String, T> itens = new HashMap<>();
+public abstract class Armazem<T> implements Armazenavel<T> {
+    private Map<String, T> itens= new HashMap<>();
 
     @Override
     public void adicionarAoInventario(String nome, T t) {
@@ -14,6 +11,7 @@ public class Armazem<T> implements Armazenavel<T>{
 
     @Override
     public T obterDoInventario(String nome) {
-        return itens.get(nome);
+       return itens.get(nome);
     }
+
 }

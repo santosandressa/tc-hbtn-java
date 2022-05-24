@@ -1,5 +1,3 @@
-package armazem;
-
 public class Comida {
 
     private String nome;
@@ -10,6 +8,10 @@ public class Comida {
         this.nome = nome;
         this.calorias = calorias;
         this.preço = preço;
+    }
+
+    public Comida() {
+
     }
 
     @Override
