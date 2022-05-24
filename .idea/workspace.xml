@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Postagens Blog">
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generics/midias/Jornal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Jornal.java" afterDir="false" />
@@ -18,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
     "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
-    "last_opened_file_path": "/home/andressas/Documentos/viradonojiraya",
+    "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -78,14 +84,7 @@
       <recent name="status" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.midias.Program">
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.armazem.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="postagem_blog.Program" />
       <module name="tc-hbtn-java" />
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="blog.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blog.Program" />
+    <configuration name="armazem.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="armazem.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blog.*" />
+          <option name="PATTERN" value="armazem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="telefones.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telefones.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telefones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.armazem.Program" />
+        <item itemvalue="Application.telefones.Program" />
         <item itemvalue="Application.midias.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.SOlutions" />
-        <item itemvalue="Application.blog.Program" />
-        <item itemvalue="Application.PrimeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +187,8 @@
       <workItem from="1653049335486" duration="14248000" />
       <workItem from="1653077178807" duration="30000" />
       <workItem from="1653077228083" duration="26000" />
-      <workItem from="1653307876627" duration="4202000" />
-    </task>
-    <task id="LOCAL-00129" summary="task 2. Lista TODO">
-      <created>1652378831687</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1652378831687</updated>
+      <workItem from="1653307876627" duration="4536000" />
+      <workItem from="1653396918042" duration="5621000" />
     </task>
     <task id="LOCAL-00130" summary="exercicios de array">
       <created>1652449940660</created>
@@ -520,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653326763021</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="1. Postagens Blog">
+      <created>1653327866969</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1653327866969</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
