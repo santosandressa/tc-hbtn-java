@@ -1,4 +1,3 @@
-
 public class Comida {
 
     private String nome;
@@ -13,6 +12,7 @@ public class Comida {
 
     @Override
     public String toString() {
-        return "[" + nome + "] " + calorias + " R$ " + preço;
+
+        return String.format("[%s] %.6f R$ %.6f",  nome, calorias, preço);
     }
 }

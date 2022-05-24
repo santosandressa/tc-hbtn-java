@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Postagens Blog">
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Jornal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Jornal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Midia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
-    "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="quadrado" />
@@ -189,6 +181,7 @@
       <workItem from="1653077228083" duration="26000" />
       <workItem from="1653307876627" duration="4536000" />
       <workItem from="1653396918042" duration="5621000" />
+      <workItem from="1653410256191" duration="305000" />
     </task>
     <task id="LOCAL-00130" summary="exercicios de array">
       <created>1652449940660</created>
