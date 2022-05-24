@@ -1,3 +1,4 @@
+
 public interface Armazenavel<T> {
 
     void adicionarAoInventario(String nome, T t);

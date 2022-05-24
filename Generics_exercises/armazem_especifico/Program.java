@@ -1,5 +1,3 @@
-package armazem_especifico;
-
 import java.util.Locale;
 
 public class Program {

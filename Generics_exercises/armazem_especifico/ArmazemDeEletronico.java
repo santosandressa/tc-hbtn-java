@@ -1,5 +1,4 @@
 
-import Eletronico;
 
 public class ArmazemDeEletronico<T> extends Armazem<Eletronico> {
     @Override
