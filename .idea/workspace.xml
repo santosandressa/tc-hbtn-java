@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Armazém de itens">
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Armazéns específicos">
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,28 +189,7 @@
       <workItem from="1653077228083" duration="26000" />
       <workItem from="1653307876627" duration="4536000" />
       <workItem from="1653396918042" duration="5621000" />
-      <workItem from="1653410256191" duration="3975000" />
-    </task>
-    <task id="LOCAL-00132" summary="exercicios de array">
-      <created>1652470536177</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1652470536177</updated>
-    </task>
-    <task id="LOCAL-00133" summary="exercicios de array">
-      <created>1652471282465</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1652471282465</updated>
-    </task>
-    <task id="LOCAL-00134" summary="task 0. Celular">
-      <created>1652711930968</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1652711930969</updated>
+      <workItem from="1653410256191" duration="4359000" />
     </task>
     <task id="LOCAL-00135" summary="task 0. Celular">
       <created>1652711948643</created>
@@ -540,7 +513,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653410691656</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="1. Armazéns específicos">
+      <created>1653414346672</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1653414346672</updated>
+    </task>
+    <task id="LOCAL-00182" summary="1. Armazéns específicos">
+      <created>1653414417371</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1653414417371</updated>
+    </task>
+    <task id="LOCAL-00183" summary="1. Armazéns específicos">
+      <created>1653414500598</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1653414500598</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 3 - retângulo completo" />
     <MESSAGE value="task 4 - quadrado" />
     <MESSAGE value="task 5 - classe abstrata" />
     <MESSAGE value="0. Pedido Livraria" />
@@ -583,7 +576,8 @@
     <MESSAGE value="task 0. Blog" />
     <MESSAGE value="1. Postagens Blog" />
     <MESSAGE value="0. Armazém de itens" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Armazém de itens" />
+    <MESSAGE value="1. Armazéns específicos" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Armazéns específicos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
