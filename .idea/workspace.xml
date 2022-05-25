@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Armazéns específicos">
-      <change afterPath="$PROJECT_DIR$/Lambda/markup/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/markup/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Produto MarkUp">
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/markup/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/markup/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,20 @@
       <recent name="retangulo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.markup.Program">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="liquido.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="liquido.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="armazem.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="armazem.Program" />
       <module name="tc-hbtn-java" />
@@ -123,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midias.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midias.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midias.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="telefones.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="telefones.Program" />
       <module name="tc-hbtn-java" />
@@ -151,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.markup.Program" />
         <item itemvalue="Application.armazem_especifico.Program" />
         <item itemvalue="Application.armazem.Program" />
         <item itemvalue="Application.telefones.Program" />
-        <item itemvalue="Application.midias.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -195,28 +190,7 @@
       <workItem from="1653307876627" duration="4536000" />
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
-      <workItem from="1653480886479" duration="3395000" />
-    </task>
-    <task id="LOCAL-00136" summary="task 0. Celular">
-      <created>1652711981789</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1652711981789</updated>
-    </task>
-    <task id="LOCAL-00137" summary="task 0. Celular">
-      <created>1652712000989</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712000990</updated>
-    </task>
-    <task id="LOCAL-00138" summary="task 0. Celular">
-      <created>1652712042688</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712042689</updated>
+      <workItem from="1653480886479" duration="4950000" />
     </task>
     <task id="LOCAL-00139" summary="task 0. Celular">
       <created>1652712082584</created>
@@ -540,7 +514,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653414817843</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="0. Produto MarkUp">
+      <created>1653497669561</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1653497669561</updated>
+    </task>
+    <task id="LOCAL-00186" summary="0. Produto MarkUp">
+      <created>1653497702049</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1653497702049</updated>
+    </task>
+    <task id="LOCAL-00187" summary="0. Produto MarkUp">
+      <created>1653497726578</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1653497726578</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 4 - quadrado" />
     <MESSAGE value="task 5 - classe abstrata" />
     <MESSAGE value="0. Pedido Livraria" />
     <MESSAGE value="task 0. Pedido Livraria" />
@@ -583,7 +577,8 @@
     <MESSAGE value="1. Postagens Blog" />
     <MESSAGE value="0. Armazém de itens" />
     <MESSAGE value="1. Armazéns específicos" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Armazéns específicos" />
+    <MESSAGE value="0. Produto MarkUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Produto MarkUp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

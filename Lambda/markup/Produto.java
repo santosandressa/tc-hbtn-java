@@ -1,9 +1,11 @@
+package markup;
+
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 public class Produto {
 
-      private String nome;
+    private String nome;
 
     private double preco;
 
@@ -13,7 +15,7 @@ public class Produto {
 
     public Consumer<Double> atualizarMarkUp = (novoMarkUp) -> percentualMarkUp = (novoMarkUp / 100);
 
-    public Produto( double preco, String nome) {
+    public Produto(double preco, String nome) {
         this.preco = preco;
         this.nome = nome;
     }
