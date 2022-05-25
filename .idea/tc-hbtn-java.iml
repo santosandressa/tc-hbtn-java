@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Generics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Generics_exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lambda_exercicios" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

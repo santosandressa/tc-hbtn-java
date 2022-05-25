@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Produto MarkUp">
-      <change afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Salario Funcionario">
+      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/markup/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/markup/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,7 @@
       <recent name="retangulo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.consulta_produtos.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="liquido.Program" />
       <module name="tc-hbtn-java" />
@@ -118,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="consulta_produtos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consulta_produtos.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consulta_produtos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="markup.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="markup.Program" />
       <module name="tc-hbtn-java" />
@@ -131,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="telefones.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="telefones.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="telefones.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.consulta_produtos.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.markup.Program" />
         <item itemvalue="Application.armazem_especifico.Program" />
         <item itemvalue="Application.armazem.Program" />
-        <item itemvalue="Application.telefones.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -190,14 +194,7 @@
       <workItem from="1653307876627" duration="4536000" />
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
-      <workItem from="1653480886479" duration="4950000" />
-    </task>
-    <task id="LOCAL-00139" summary="task 0. Celular">
-      <created>1652712082584</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712082584</updated>
+      <workItem from="1653480886479" duration="6497000" />
     </task>
     <task id="LOCAL-00140" summary="task 0. Celular">
       <created>1652712139436</created>
@@ -535,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653497726578</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="1. Salario Funcionario">
+      <created>1653499055733</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1653499055733</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 5 - classe abstrata" />
     <MESSAGE value="0. Pedido Livraria" />
     <MESSAGE value="task 0. Pedido Livraria" />
     <MESSAGE value="task 1. Resumo Pedido" />
@@ -578,7 +581,8 @@
     <MESSAGE value="0. Armazém de itens" />
     <MESSAGE value="1. Armazéns específicos" />
     <MESSAGE value="0. Produto MarkUp" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Produto MarkUp" />
+    <MESSAGE value="1. Salario Funcionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Salario Funcionario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

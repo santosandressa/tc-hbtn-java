@@ -1,3 +1,4 @@
+package liquido;
 
 public class Funcionario {
 
