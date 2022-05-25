@@ -60,6 +60,6 @@ public class Produto {
     public String toString() {
         DecimalFormat df = new DecimalFormat("0.000000");
 
-        return String.format("%s, %s, %s, %s, %s", nome, df.format(preco), df.format(peso), quantidadeEmEstoque, tipo);
+        return String.format("%s %s %s %s %s", nome, df.format(preco), df.format(peso), quantidadeEmEstoque, tipo);
     }
 }
