@@ -1,3 +1,5 @@
+package armazem_especifico;
+
 public class ArmazemDeComida<T> extends Armazem<Comida> {
 
     @Override

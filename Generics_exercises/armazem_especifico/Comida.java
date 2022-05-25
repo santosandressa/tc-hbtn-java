@@ -1,4 +1,4 @@
-
+package armazem_especifico;
 
 public class Comida {
 
@@ -13,7 +13,6 @@ public class Comida {
     }
 
     public Comida() {
-
     }
 
     @Override
