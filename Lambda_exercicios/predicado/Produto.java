@@ -1,4 +1,4 @@
-package consulta_produtos;
+package predicado;
 
 import java.text.DecimalFormat;
 

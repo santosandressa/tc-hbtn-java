@@ -1,3 +1,5 @@
+package consulta_produtos;
+
 @FunctionalInterface
 public interface CriterioFiltro {
 
