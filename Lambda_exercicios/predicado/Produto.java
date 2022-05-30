@@ -1,3 +1,5 @@
+package predicado;
+
 import java.text.DecimalFormat;
 
 public class Produto {

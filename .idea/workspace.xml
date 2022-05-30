@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="removendo virgulas">
-      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Consultar Produtos com Predicado, adicionando locale">
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "temurin-11",
     "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
-    "last_opened_file_path": "/home/andressas/Documentos/viradonojiraya",
+    "last_opened_file_path": "/home/andressas/Documentos/tc-hbtn-java",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -81,26 +83,13 @@
       <recent name="quadrado" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.predicado.Program">
+  <component name="RunManager" selected="Application.livros.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="liquido.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="liquido.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="armazem_especifico.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="armazem_especifico.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="armazem_especifico.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="markup.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="markup.Program" />
+    <configuration name="livros.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="livros.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="markup.*" />
+          <option name="PATTERN" value="livros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="postagem_blog.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postagem_blog.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="postagem_blog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.livros.Program" />
+        <item itemvalue="Application.postagem_blog.Program" />
         <item itemvalue="Application.predicado.Program" />
         <item itemvalue="Application.consulta_produtos.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.markup.Program" />
-        <item itemvalue="Application.armazem_especifico.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -193,28 +195,8 @@
       <workItem from="1653307876627" duration="4536000" />
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
-      <workItem from="1653480886479" duration="7874000" />
-    </task>
-    <task id="LOCAL-00143" summary="task 0. Celular">
-      <created>1652712383038</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712383038</updated>
-    </task>
-    <task id="LOCAL-00144" summary="task 0. Celular">
-      <created>1652712413678</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712413678</updated>
-    </task>
-    <task id="LOCAL-00145" summary="task 0. Celular">
-      <created>1652712459981</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712459982</updated>
+      <workItem from="1653480886479" duration="12056000" />
+      <workItem from="1653934394591" duration="1381000" />
     </task>
     <task id="LOCAL-00146" summary="task 0. Celular">
       <created>1652712599880</created>
@@ -538,7 +520,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653500862638</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="1. Consultar Produtos com Predicado">
+      <created>1653504821429</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1653504821429</updated>
+    </task>
+    <task id="LOCAL-00193" summary="1. Consultar Produtos com Predicado">
+      <created>1653504836374</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1653504836374</updated>
+    </task>
+    <task id="LOCAL-00194" summary="1. Consultar Produtos com Predicado, adicionando locale">
+      <created>1653504936188</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1653504936188</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,8 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1. Resumo Pedido" />
-    <MESSAGE value="task 0. Logging" />
     <MESSAGE value="task 0. workflow" />
     <MESSAGE value="task 1. Frete" />
     <MESSAGE value="task 0. Empregado/Endereço" />
@@ -581,7 +582,9 @@
     <MESSAGE value="1. Salario Funcionario" />
     <MESSAGE value="0. Consultar Produtos" />
     <MESSAGE value="removendo virgulas" />
-    <option name="LAST_COMMIT_MESSAGE" value="removendo virgulas" />
+    <MESSAGE value="1. Consultar Produtos com Predicado" />
+    <MESSAGE value="1. Consultar Produtos com Predicado, adicionando locale" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Consultar Produtos com Predicado, adicionando locale" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

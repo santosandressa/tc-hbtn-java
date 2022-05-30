@@ -54,21 +54,8 @@ public class Post implements Comparable<Post>{
     }
 
     @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Post)) return false;
-
-        Post post = (Post) o;
-
-        if (!Objects.equals(autor, post.autor)) return false;
-        if (!Objects.equals(titulo, post.titulo)) return false;
-        if (!Objects.equals(corpo, post.corpo)) return false;
-        return categoria == post.categoria;
-    }
-
-    @Override
     public int hashCode() {
-        int result =1;
+        int result = autor != null ? autor.hashCode() : 0;
         result = 31 * result + (titulo != null ? titulo.hashCode() : 0);
         result = 31 * result + (corpo != null ? corpo.hashCode() : 0);
         result = 31 * result + (categoria != null ? categoria.hashCode() : 0);
