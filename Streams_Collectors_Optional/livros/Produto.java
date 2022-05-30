@@ -1,4 +1,3 @@
-import CategoriaProduto;
 
 import java.text.DecimalFormat;
 
