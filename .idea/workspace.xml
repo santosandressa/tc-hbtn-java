@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Relatórios Livros">
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
@@ -68,27 +77,14 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maior_preco" />
       <recent name="predicado" />
       <recent name="armazem_especifico" />
       <recent name="resumo_pedido" />
       <recent name="abstrata" />
-      <recent name="quadrado" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.livros.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="liquido.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="liquido.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.maior_preco.Program">
     <configuration name="consulta_produtos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="consulta_produtos.Program" />
       <module name="tc-hbtn-java" />
@@ -108,6 +104,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="livros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maior_preco.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maior_preco.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maior_preco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maior_preco.Program" />
         <item itemvalue="Application.livros.Program" />
         <item itemvalue="Application.postagem_blog.Program" />
         <item itemvalue="Application.predicado.Program" />
         <item itemvalue="Application.consulta_produtos.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -188,42 +197,7 @@
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
-      <workItem from="1653934394591" duration="1706000" />
-    </task>
-    <task id="LOCAL-00147" summary="task 0. Celular">
-      <created>1652712667978</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712667978</updated>
-    </task>
-    <task id="LOCAL-00148" summary="task 0. Celular">
-      <created>1652712807910</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712807910</updated>
-    </task>
-    <task id="LOCAL-00149" summary="task 0. Celular">
-      <created>1652712880632</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712880632</updated>
-    </task>
-    <task id="LOCAL-00150" summary="task 0. Celular">
-      <created>1652712928196</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712928196</updated>
-    </task>
-    <task id="LOCAL-00151" summary="task 0. Celular">
-      <created>1652730728974</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1652730728974</updated>
+      <workItem from="1653934394591" duration="2660000" />
     </task>
     <task id="LOCAL-00152" summary="task 0. Celular">
       <created>1652730781334</created>
@@ -533,7 +507,42 @@
       <option name="project" value="LOCAL" />
       <updated>1653936029559</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="0. Relatórios Livros">
+      <created>1653936141090</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936141090</updated>
+    </task>
+    <task id="LOCAL-00197" summary="0. Relatórios Livros">
+      <created>1653936178049</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936178049</updated>
+    </task>
+    <task id="LOCAL-00198" summary="0. Relatórios Livros">
+      <created>1653936201192</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936201192</updated>
+    </task>
+    <task id="LOCAL-00199" summary="0. Relatórios Livros">
+      <created>1653936239026</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936239026</updated>
+    </task>
+    <task id="LOCAL-00200" summary="0. Relatórios Livros">
+      <created>1653936286733</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936286733</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
