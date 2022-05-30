@@ -1,5 +1,3 @@
-package pedidos_eletronico;
-
 public class Cliente {
 
     private int codigo;

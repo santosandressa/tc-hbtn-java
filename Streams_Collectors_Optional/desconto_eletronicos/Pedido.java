@@ -1,5 +1,3 @@
-package pedidos_eletronico;
-
 import java.util.List;
 
 public class Pedido {

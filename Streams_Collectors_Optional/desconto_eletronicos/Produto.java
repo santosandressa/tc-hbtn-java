@@ -1,5 +1,3 @@
-package pedidos_eletronico;
-
 import java.text.DecimalFormat;
 
 public class Produto {
@@ -37,4 +35,9 @@ public class Produto {
     public double getPreco() {
         return preco;
     }
+
+    public void setPreco(double preco) {
+        this.preco = preco;
+    }
+
 }
