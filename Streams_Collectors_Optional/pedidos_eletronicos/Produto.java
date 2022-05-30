@@ -1,5 +1,3 @@
-package preco_minimo;
-
 import java.text.DecimalFormat;
 
 public class Produto {

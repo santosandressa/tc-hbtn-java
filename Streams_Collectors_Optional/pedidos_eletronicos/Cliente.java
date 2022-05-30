@@ -1,5 +1,3 @@
-package preco_minimo;
-
 public class Cliente {
 
     private int codigo;

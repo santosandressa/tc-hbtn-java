@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Relatório Produto com maior preço">
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="2. Relatório Produtos por preco minimo">
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronicos/CategoriaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronicos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronicos/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronicos/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronicos/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +76,14 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pedidos_eletronicos" />
       <recent name="preco_minimo" />
       <recent name="maior_preco" />
       <recent name="predicado" />
       <recent name="armazem_especifico" />
-      <recent name="resumo_pedido" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.pedidos_eletronicos.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="preco_minimo.Program" />
       <module name="tc-hbtn-java" />
@@ -124,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pedidos_eletronicos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pedidos_eletronicos.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pedidos_eletronicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="postagem_blog.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="postagem_blog.Program" />
       <module name="tc-hbtn-java" />
@@ -137,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="predicado.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicado.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predicado.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pedidos_eletronicos.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.maior_preco.Program" />
         <item itemvalue="Application.livros.Program" />
         <item itemvalue="Application.postagem_blog.Program" />
-        <item itemvalue="Application.predicado.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +196,7 @@
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
-      <workItem from="1653934394591" duration="3301000" />
-    </task>
-    <task id="LOCAL-00153" summary="task 1. Banco">
-      <created>1652805793276</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1652805793277</updated>
+      <workItem from="1653934394591" duration="4142000" />
     </task>
     <task id="LOCAL-00154" summary="task 1. Banco">
       <created>1652805880912</created>
@@ -542,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653937061947</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="2. Relatório Produtos por preco minimo">
+      <created>1653937704283</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1653937704283</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0. Empregado/Endereço" />
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
     <MESSAGE value="0. Inteiro" />
     <MESSAGE value="task 0. Array" />
@@ -585,7 +583,8 @@
     <MESSAGE value="1. Consultar Produtos com Predicado, adicionando locale" />
     <MESSAGE value="0. Relatórios Livros" />
     <MESSAGE value="1. Relatório Produto com maior preço" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Relatório Produto com maior preço" />
+    <MESSAGE value="2. Relatório Produtos por preco minimo" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Relatório Produtos por preco minimo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

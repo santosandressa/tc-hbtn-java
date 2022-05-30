@@ -1,5 +1,3 @@
-package preco_minimo;
-
 import java.util.List;
 
 public class Pedido {
@@ -8,10 +6,15 @@ public class Pedido {
     private List<Produto> produtos;
     private Cliente cliente;
 
-    public Pedido(int codigo, List<Produto> produtos,Cliente cliente) {
+    public Pedido(int codigo, List<Produto> produtos, Cliente cliente) {
         this.codigo = codigo;
         this.produtos = produtos;
         this.cliente = cliente;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("[%d] %s", codigo, cliente.getNome());
     }
 
     public int getCodigo() {
