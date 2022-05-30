@@ -17,7 +17,7 @@ public class Produto {
     @Override
     public String toString() {
         DecimalFormat df = new DecimalFormat("0.00");
-        return String.format("[%d] - %s - %s - R$ %s", codigo, nome, categoria, df.format(preco));
+        return String.format("[%d] %s %s R$ %s", codigo, nome, categoria, df.format(preco));
     }
 
     public int getCodigo() {

@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Consultar Produtos com Predicado, adicionando locale">
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Relatórios Livros">
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,14 +188,7 @@
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
-      <workItem from="1653934394591" duration="1381000" />
-    </task>
-    <task id="LOCAL-00146" summary="task 0. Celular">
-      <created>1652712599880</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1652712599880</updated>
+      <workItem from="1653934394591" duration="1706000" />
     </task>
     <task id="LOCAL-00147" summary="task 0. Celular">
       <created>1652712667978</created>
@@ -541,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653504936188</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="0. Relatórios Livros">
+      <created>1653936029559</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1653936029559</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0. workflow" />
     <MESSAGE value="task 1. Frete" />
     <MESSAGE value="task 0. Empregado/Endereço" />
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
@@ -584,7 +575,8 @@
     <MESSAGE value="removendo virgulas" />
     <MESSAGE value="1. Consultar Produtos com Predicado" />
     <MESSAGE value="1. Consultar Produtos com Predicado, adicionando locale" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Consultar Produtos com Predicado, adicionando locale" />
+    <MESSAGE value="0. Relatórios Livros" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Relatórios Livros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
