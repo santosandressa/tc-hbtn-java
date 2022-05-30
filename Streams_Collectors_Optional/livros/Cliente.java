@@ -1,5 +1,3 @@
-package livros;
-
 public class Cliente {
 
     private int codigo;
