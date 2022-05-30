@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Relatórios Livros">
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Relatório Produto com maior preço">
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +77,20 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="preco_minimo" />
       <recent name="maior_preco" />
       <recent name="predicado" />
       <recent name="armazem_especifico" />
       <recent name="resumo_pedido" />
-      <recent name="abstrata" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maior_preco.Program">
-    <configuration name="consulta_produtos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="consulta_produtos.Program" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preco_minimo.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="consulta_produtos.*" />
+          <option name="PATTERN" value="preco_minimo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.maior_preco.Program" />
         <item itemvalue="Application.livros.Program" />
         <item itemvalue="Application.postagem_blog.Program" />
         <item itemvalue="Application.predicado.Program" />
-        <item itemvalue="Application.consulta_produtos.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -197,14 +197,7 @@
       <workItem from="1653396918042" duration="5621000" />
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
-      <workItem from="1653934394591" duration="2660000" />
-    </task>
-    <task id="LOCAL-00152" summary="task 0. Celular">
-      <created>1652730781334</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1652730781334</updated>
+      <workItem from="1653934394591" duration="3301000" />
     </task>
     <task id="LOCAL-00153" summary="task 1. Banco">
       <created>1652805793276</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653936286733</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="1. Relatório Produto com maior preço">
+      <created>1653937061947</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1653937061947</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +560,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1. Frete" />
     <MESSAGE value="task 0. Empregado/Endereço" />
     <MESSAGE value="task 0. Plano de Ataque Mordor" />
     <MESSAGE value="0. Inteiro" />
@@ -585,7 +584,8 @@
     <MESSAGE value="1. Consultar Produtos com Predicado" />
     <MESSAGE value="1. Consultar Produtos com Predicado, adicionando locale" />
     <MESSAGE value="0. Relatórios Livros" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Relatórios Livros" />
+    <MESSAGE value="1. Relatório Produto com maior preço" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Relatório Produto com maior preço" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

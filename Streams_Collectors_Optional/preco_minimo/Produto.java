@@ -1,5 +1,3 @@
-package maior_preco;
-
 import java.text.DecimalFormat;
 
 public class Produto {
