@@ -128,7 +128,7 @@
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pedidos_eletronicos.*" />
+          <option name="PATTERN" value="pedidos_eletronico.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
