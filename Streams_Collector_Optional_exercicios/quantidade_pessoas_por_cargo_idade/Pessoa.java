@@ -1,4 +1,4 @@
-package quantidade_pessoas_por_cargo;
+package quantidade_pessoas_por_cargo_idade;
 
 public class Pessoa {
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Pessoas agrupadas por cargos em order reversao">
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="1. Contagem de pessoas por cargo">
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,27 +71,14 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="quantidade_pessoas_por_cargo_idade" />
       <recent name="quantidade_pessoas_por_cargo" />
       <recent name="desconto_eletronicos" />
       <recent name="pedidos_eletronicos" />
       <recent name="preco_minimo" />
-      <recent name="maior_preco" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quantidade_pessoas_por_cargo.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preco_minimo.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="preco_minimo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.quantidade_pessoas_por_cargo_idade.Program">
     <configuration name="desconto_eletronicos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desconto_eletronicos.Program" />
       <module name="tc-hbtn-java" />
@@ -144,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quantidade_pessoas_por_cargo_idade.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quantidade_pessoas_por_cargo_idade.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quantidade_pessoas_por_cargo_idade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quantidade_pessoas_por_cargo_idade.Program" />
         <item itemvalue="Application.quantidade_pessoas_por_cargo.Program" />
         <item itemvalue="Application.pessoas_por_cargo_ordem_reversa.Program" />
         <item itemvalue="Application.desconto_eletronicos.Program" />
         <item itemvalue="Application.pedidos_eletronicos.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -192,21 +192,7 @@
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
       <workItem from="1653934394591" duration="6616000" />
-      <workItem from="1654003749376" duration="4518000" />
-    </task>
-    <task id="LOCAL-00159" summary="1. Duplicados">
-      <created>1652892325880</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1652892325880</updated>
-    </task>
-    <task id="LOCAL-00160" summary="1. Duplicados">
-      <created>1652892363395</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1652892363395</updated>
+      <workItem from="1654003749376" duration="4823000" />
     </task>
     <task id="LOCAL-00161" summary="1. Duplicados">
       <created>1652892432391</created>
@@ -537,7 +523,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654006308986</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="1. Contagem de pessoas por cargo">
+      <created>1654014817095</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1654014817095</updated>
+    </task>
+    <task id="LOCAL-00209" summary="1. Contagem de pessoas por cargo">
+      <created>1654014847007</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1654014847007</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1 cookies" />
     <MESSAGE value="task 2. Lista TODO" />
     <MESSAGE value="exercicios de array" />
     <MESSAGE value="task 0. Celular" />
@@ -580,7 +579,8 @@
     <MESSAGE value="3. Relatório Pedidos com Eletrônicos" />
     <MESSAGE value="4. Eletronicos com 15% de desconto" />
     <MESSAGE value="0. Pessoas agrupadas por cargos em order reversao" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Pessoas agrupadas por cargos em order reversao" />
+    <MESSAGE value="1. Contagem de pessoas por cargo" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Contagem de pessoas por cargo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
