@@ -18,7 +18,7 @@ public class Pessoa implements Comparable<Pessoa> {
 
     @Override
     public String toString() {
-        DecimalFormat df = new DecimalFormat("0.00000");
+        DecimalFormat df = new DecimalFormat("0.000000");
         return String.format("[%d] %s %s %s R$ %s", codigo, nome, cargo, idade, df.format(salario));
     }
 

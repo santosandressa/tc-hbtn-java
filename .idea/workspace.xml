@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="4. Eletronicos com 15% de desconto">
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Pessoas agrupadas por cargos em order reversao">
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,14 +186,7 @@
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
       <workItem from="1653934394591" duration="6616000" />
-      <workItem from="1654003749376" duration="2201000" />
-    </task>
-    <task id="LOCAL-00157" summary="0. Contagem de Palavras">
-      <created>1652883790651</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1652883790651</updated>
+      <workItem from="1654003749376" duration="2555000" />
     </task>
     <task id="LOCAL-00158" summary="0. Contagem de Palavras">
       <created>1652883867735</created>
@@ -541,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653940949622</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="0. Pessoas agrupadas por cargos em order reversao">
+      <created>1654006217018</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1654006217019</updated>
+    </task>
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 0. Array" />
     <MESSAGE value="task 1 cookies" />
     <MESSAGE value="task 2. Lista TODO" />
     <MESSAGE value="exercicios de array" />
@@ -584,7 +573,8 @@
     <MESSAGE value="2. Relatório Produtos por preco minimo" />
     <MESSAGE value="3. Relatório Pedidos com Eletrônicos" />
     <MESSAGE value="4. Eletronicos com 15% de desconto" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. Eletronicos com 15% de desconto" />
+    <MESSAGE value="0. Pessoas agrupadas por cargos em order reversao" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Pessoas agrupadas por cargos em order reversao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
