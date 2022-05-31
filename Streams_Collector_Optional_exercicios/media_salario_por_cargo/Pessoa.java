@@ -1,5 +1,3 @@
-package quantidade_pessoas_por_cargo_idade;
-
 public class Pessoa {
 
     private int codigo;

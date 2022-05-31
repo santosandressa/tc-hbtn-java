@@ -1,5 +1,3 @@
-package quantidade_pessoas_por_cargo_idade;
-
 import java.util.List;
 import java.util.Map;
 
@@ -19,11 +17,11 @@ public class Program {
         List<Pessoa> todasPessoas = List.of(pessoa1, pessoa2, pessoa3, pessoa4, pessoa5,
                 pessoa6, pessoa7, pessoa8, pessoa9, pessoa10);
 
-        Map<String, Map<Integer, Long>> pessoas1 = ConsultaPessoas.obterContagemPessoasPorCargoEIdade(todasPessoas);
-        Map<String, Map<Integer, Long>> pessoas2 = ConsultaPessoas.obterContagemPessoasPorCargoEIdade(
+        Map<String, Double> pessoas1 = ConsultaPessoas.obterMediaSalarioPorCargo(todasPessoas);
+        Map<String, Double> pessoas2 = ConsultaPessoas.obterMediaSalarioPorCargo(
                 List.of(pessoa1, pessoa2, pessoa3, pessoa4, pessoa9, pessoa10)
         );
-        Map<String, Map<Integer, Long>> pessoas3 = ConsultaPessoas.obterContagemPessoasPorCargoEIdade(
+        Map<String, Double> pessoas3 = ConsultaPessoas.obterMediaSalarioPorCargo(
                 List.of(pessoa1, pessoa3, pessoa4, pessoa5, pessoa9)
         );
 
