@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="2. Contagem de pessoas por idade e cargo">
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="3. Média salarial por cargo">
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/ConsultaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/andressas/Documentos/tc-hbtn-java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "temurin-11",
+    "last_directory_selection": "/home/andressas/Documentos/tc-hbtn-java/TiposPrimitivos_Wrapper/inteiro_positivo",
+    "last_opened_file_path": "/home/andressas/Documentos/viradonojiraya",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="quadrado" />
@@ -71,14 +71,14 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hobbies_por_cargo" />
       <recent name="media_salario_por_cargo" />
       <recent name="quantidade_pessoas_por_cargo_idade" />
       <recent name="quantidade_pessoas_por_cargo" />
       <recent name="desconto_eletronicos" />
-      <recent name="pedidos_eletronicos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.hobbies_por_cargo.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="media_salario_por_cargo.Program" />
       <module name="tc-hbtn-java" />
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desconto_eletronicos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desconto_eletronicos.Program" />
+    <configuration name="hobbies_por_cargo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hobbies_por_cargo.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desconto_eletronicos.*" />
+          <option name="PATTERN" value="hobbies_por_cargo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hobbies_por_cargo.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.quantidade_pessoas_por_cargo_idade.Program" />
         <item itemvalue="Application.quantidade_pessoas_por_cargo.Program" />
         <item itemvalue="Application.pessoas_por_cargo_ordem_reversa.Program" />
-        <item itemvalue="Application.desconto_eletronicos.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +192,7 @@
       <workItem from="1653410256191" duration="10548000" />
       <workItem from="1653480886479" duration="12056000" />
       <workItem from="1653934394591" duration="6616000" />
-      <workItem from="1654003749376" duration="6334000" />
-    </task>
-    <task id="LOCAL-00163" summary="task 2. telefones">
-      <created>1652896112053</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1652896112053</updated>
+      <workItem from="1654003749376" duration="7959000" />
     </task>
     <task id="LOCAL-00164" summary="task 2. telefones">
       <created>1652896138474</created>
@@ -537,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654015163200</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="3. Média salarial por cargo">
+      <created>1654016640115</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1654016640115</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercicios de array" />
     <MESSAGE value="task 0. Celular" />
     <MESSAGE value="task 1. Banco" />
     <MESSAGE value="0. Contagem de Palavras" />
@@ -580,7 +579,8 @@
     <MESSAGE value="0. Pessoas agrupadas por cargos em order reversao" />
     <MESSAGE value="1. Contagem de pessoas por cargo" />
     <MESSAGE value="2. Contagem de pessoas por idade e cargo" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. Contagem de pessoas por idade e cargo" />
+    <MESSAGE value="3. Média salarial por cargo" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. Média salarial por cargo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

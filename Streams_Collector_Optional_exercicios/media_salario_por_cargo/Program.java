@@ -1,3 +1,5 @@
+package media_salario_por_cargo;
+
 import java.util.List;
 import java.util.Map;
 
