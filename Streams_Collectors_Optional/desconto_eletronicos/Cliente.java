@@ -1,3 +1,5 @@
+package desconto_eletronicos;
+
 public class Cliente {
 
     private int codigo;

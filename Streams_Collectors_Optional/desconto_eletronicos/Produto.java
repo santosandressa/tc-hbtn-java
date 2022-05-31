@@ -1,3 +1,5 @@
+package desconto_eletronicos;
+
 import java.text.DecimalFormat;
 
 public class Produto {
