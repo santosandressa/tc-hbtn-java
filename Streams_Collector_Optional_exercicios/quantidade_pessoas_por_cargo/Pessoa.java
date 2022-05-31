@@ -1,8 +1,6 @@
-package pessoas_por_cargo_ordem_reversa;
+package quantidade_pessoas_por_cargo;
 
-import java.text.DecimalFormat;
-
-public class Pessoa implements Comparable<Pessoa> {
+public class Pessoa {
 
     private int codigo;
     private String nome;
@@ -16,12 +14,6 @@ public class Pessoa implements Comparable<Pessoa> {
         this.cargo = cargo;
         this.idade = idade;
         this.salario = salario;
-    }
-
-    @Override
-    public String toString() {
-        DecimalFormat df = new DecimalFormat("0.000000");
-        return String.format("[%d] %s %s %s R$ %s", codigo, nome, cargo, idade, df.format(salario));
     }
 
     public int getCodigo() {
@@ -62,10 +54,5 @@ public class Pessoa implements Comparable<Pessoa> {
 
     public void setSalario(double salario) {
         this.salario = salario;
-    }
-
-    @Override
-    public int compareTo(Pessoa o) {
-        return this.nome.compareTo(o.getNome());
     }
 }
