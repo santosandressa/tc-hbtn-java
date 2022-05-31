@@ -1,4 +1,3 @@
-package quantidade_pessoas_por_cargo;
 
 public class Pessoa {
 
