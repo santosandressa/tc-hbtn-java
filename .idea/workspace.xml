@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="Task 0 - apache maven" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="Task 0 - apache maven">
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/com/techcamps/financeiro/FinanceiroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/com/techcamps/financeiro/FinanceiroMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,20 @@
       <recent name="desconto_eletronicos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.serializacao.Program">
+  <component name="RunManager" selected="Application.FinanceiroMain">
+    <configuration name="FinanceiroMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.com.techcamps.financeiro.FinanceiroMain" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.com.techcamps.financeiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="media_salario_por_cargo.Program" />
       <module name="tc-hbtn-java" />
@@ -90,19 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hobbies_por_cargo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quantidade_pessoas_por_cargo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quantidade_pessoas_por_cargo.Program" />
-      <module name="tc-hbtn-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="quantidade_pessoas_por_cargo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinanceiroMain" />
         <item itemvalue="Application.serializacao.Program" />
         <item itemvalue="Application.hobbies_por_cargo.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.quantidade_pessoas_por_cargo_idade.Program" />
-        <item itemvalue="Application.quantidade_pessoas_por_cargo.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -188,35 +190,7 @@
       <workItem from="1654022977704" duration="618000" />
       <workItem from="1654025456535" duration="1305000" />
       <workItem from="1654085632884" duration="4410000" />
-      <workItem from="1654094585337" duration="1162000" />
-    </task>
-    <task id="LOCAL-00173" summary="1. Postagens Blog">
-      <created>1653076984173</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1653076984173</updated>
-    </task>
-    <task id="LOCAL-00174" summary="1. Postagens Blog">
-      <created>1653077020086</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1653077020086</updated>
-    </task>
-    <task id="LOCAL-00175" summary="1. Postagens Blog">
-      <created>1653077047848</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1653077047848</updated>
-    </task>
-    <task id="LOCAL-00176" summary="1. Postagens Blog">
-      <created>1653077125164</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1653077125164</updated>
+      <workItem from="1654094585337" duration="1463000" />
     </task>
     <task id="LOCAL-00177" summary="1. Postagens Blog">
       <created>1653326763021</created>
@@ -533,7 +507,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654102615885</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="Task 0 - apache maven">
+      <created>1654102794344</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1654102794344</updated>
+    </task>
+    <task id="LOCAL-00223" summary="Task 0 - apache maven">
+      <created>1654102844762</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1654102844762</updated>
+    </task>
+    <task id="LOCAL-00224" summary="Task 0 - apache maven">
+      <created>1654103011132</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1654103011132</updated>
+    </task>
+    <task id="LOCAL-00225" summary="Task 0 - apache maven">
+      <created>1654103042205</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1654103042205</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
