@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Serialização de Estudantes">
       <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,42 +191,7 @@
       <workItem from="1654003749376" duration="8098000" />
       <workItem from="1654022977704" duration="618000" />
       <workItem from="1654025456535" duration="1305000" />
-      <workItem from="1654085632884" duration="3427000" />
-    </task>
-    <task id="LOCAL-00166" summary="task 3. Telefones Duplicados">
-      <created>1652966567171</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1652966567171</updated>
-    </task>
-    <task id="LOCAL-00167" summary="task 3. Telefones Duplicados">
-      <created>1652979728294</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1652979728294</updated>
-    </task>
-    <task id="LOCAL-00168" summary="task 3. Telefones Duplicados">
-      <created>1652979786166</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1652979786166</updated>
-    </task>
-    <task id="LOCAL-00169" summary="task 0. Blog">
-      <created>1652991660713</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1652991660713</updated>
-    </task>
-    <task id="LOCAL-00170" summary="task 0. Blog">
-      <created>1652991767077</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1652991767077</updated>
+      <workItem from="1654085632884" duration="3822000" />
     </task>
     <task id="LOCAL-00171" summary="1. Postagens Blog">
       <created>1653076841391</created>
@@ -534,7 +501,42 @@
       <option name="project" value="LOCAL" />
       <updated>1654093532778</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="0. Serialização de Estudantes">
+      <created>1654093594813</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093594813</updated>
+    </task>
+    <task id="LOCAL-00216" summary="0. Serialização de Estudantes">
+      <created>1654093633760</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093633760</updated>
+    </task>
+    <task id="LOCAL-00217" summary="0. Serialização de Estudantes">
+      <created>1654093670580</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093670580</updated>
+    </task>
+    <task id="LOCAL-00218" summary="0. Serialização de Estudantes">
+      <created>1654093720799</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093720799</updated>
+    </task>
+    <task id="LOCAL-00219" summary="0. Serialização de Estudantes">
+      <created>1654093771359</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093771359</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
