@@ -16,10 +16,10 @@ public class Estudante implements Serializable {
 
     @Override
     public String toString() {
-        return "Estudante{" +
-                "nome='" + nome + '\'' +
+        return "Estudante {" +
+                " nome='" + nome + '\'' +
                 ", idade=" + idade +
                 ", senha='" + senha + '\'' +
-                '}';
+                 '}';
     }
 }
