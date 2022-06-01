@@ -19,7 +19,7 @@ public class Estudante implements Serializable {
         return "Estudante {" +
                 " nome='" + nome + '\'' +
                 ", idade='" + idade +'\'' +
-                ", senha='" + senha + '\'' +
+                ", senha=' " + senha + '\'' +
                  '}';
     }
 }
