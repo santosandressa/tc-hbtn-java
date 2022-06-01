@@ -1,4 +1,4 @@
-package src.main.java.com.techcamps.financeiro;
+package src.main.java;
 
 public class FinanceiroMain {
     public static void main(String[] args) {

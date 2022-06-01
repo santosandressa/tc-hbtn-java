@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="Task 0 - apache maven">
-      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/com/techcamps/financeiro/FinanceiroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/com/techcamps/financeiro/FinanceiroMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/com/techcamps/financeiro/FinanceiroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/FinanceiroMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +72,13 @@
       <recent name="desconto_eletronicos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinanceiroMain">
+  <component name="RunManager" selected="Application.src.main.FinanceiroMain">
     <configuration name="FinanceiroMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.java.com.techcamps.financeiro.FinanceiroMain" />
+      <option name="MAIN_CLASS_NAME" value="src.main.java.FinanceiroMain" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.main.java.com.techcamps.financeiro.*" />
+          <option name="PATTERN" value="src.main.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinanceiroMain" />
+        <item itemvalue="Application.src.main.FinanceiroMain" />
         <item itemvalue="Application.serializacao.Program" />
         <item itemvalue="Application.hobbies_por_cargo.Program" />
         <item itemvalue="Application.Program" />
@@ -190,14 +190,7 @@
       <workItem from="1654022977704" duration="618000" />
       <workItem from="1654025456535" duration="1305000" />
       <workItem from="1654085632884" duration="4410000" />
-      <workItem from="1654094585337" duration="1463000" />
-    </task>
-    <task id="LOCAL-00177" summary="1. Postagens Blog">
-      <created>1653326763021</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1653326763021</updated>
+      <workItem from="1654094585337" duration="1832000" />
     </task>
     <task id="LOCAL-00178" summary="1. Postagens Blog">
       <created>1653327866969</created>
@@ -535,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654103042205</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="Task 0 - apache maven">
+      <created>1654103076348</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1654103076348</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
