@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="4. Hobbies por cargo">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/hobbies_por_cargo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quantidade_pessoas_por_cargo/ConsultaPessoas.class" beforeDir="false" afterPath="$PROJECT_DIR$/trace/0x00-java-hello_world/out/production/tc-hbtn-java/quantidade_pessoas_por_cargo/ConsultaPessoas.class" afterDir="false" />
+    <list default="true" id="e1cba22e-28e7-41b4-b147-ab02c58eabcc" name="Changes" comment="0. Serialização de Estudantes">
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,14 +189,7 @@
       <workItem from="1654003749376" duration="8098000" />
       <workItem from="1654022977704" duration="618000" />
       <workItem from="1654025456535" duration="1305000" />
-      <workItem from="1654085632884" duration="3113000" />
-    </task>
-    <task id="LOCAL-00165" summary="task 2. telefones">
-      <created>1652896169543</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1652896169543</updated>
+      <workItem from="1654085632884" duration="3427000" />
     </task>
     <task id="LOCAL-00166" summary="task 3. Telefones Duplicados">
       <created>1652966567171</created>
@@ -544,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654018375756</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="0. Serialização de Estudantes">
+      <created>1654093532778</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1654093532778</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task 1. Banco" />
     <MESSAGE value="0. Contagem de Palavras" />
     <MESSAGE value="1. Duplicados" />
     <MESSAGE value="task 2. telefones" />
@@ -587,7 +576,8 @@
     <MESSAGE value="2. Contagem de pessoas por idade e cargo" />
     <MESSAGE value="3. Média salarial por cargo" />
     <MESSAGE value="4. Hobbies por cargo" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. Hobbies por cargo" />
+    <MESSAGE value="0. Serialização de Estudantes" />
+    <option name="LAST_COMMIT_MESSAGE" value="0. Serialização de Estudantes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
