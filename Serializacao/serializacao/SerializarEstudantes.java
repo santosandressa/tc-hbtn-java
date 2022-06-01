@@ -1,9 +1,12 @@
+package serializacao;
+
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
+
 @SuppressWarnings (value="unchecked")
 public class SerializarEstudantes {
 
@@ -15,6 +18,7 @@ public class SerializarEstudantes {
 
     public void serializar(List<Estudante> estudantes) {
         Path path = Paths.get("/tmp/" + nomeArquivo);
+
         try (ObjectOutputStream oos = new ObjectOutputStream(Files.newOutputStream(Paths.get(String.valueOf(path))))) {
             oos.writeObject(estudantes);
         } catch (Exception e) {
@@ -27,7 +31,6 @@ public class SerializarEstudantes {
 
         try (ObjectInputStream ois = new ObjectInputStream(Files.newInputStream(Paths.get(String.valueOf(path))))) {
             return (List<Estudante>) ois.readObject();
-
         } catch (Exception e) {
             System.out.println("Nao foi possivel desserializar");
         }
