@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Streams_Collectors_Optional" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Streams_Collector_Optional_exercicios" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Serializacao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apache-maven/financeiro-api" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
