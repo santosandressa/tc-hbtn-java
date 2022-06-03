@@ -7,18 +7,18 @@ public class ListaTelefonica {
     private HashMap<String, HashSet<Telefone>> listaTelefonica;
 
     public ListaTelefonica(){
-        this.listaTelefonica = new HashMap<String, HashSet<Telefone>>();
+        this.listaTelefonica = new HashMap<>();
     }
 
     public void adicionarTelefone(String nome, Telefone telefone) {
 
         HashSet<Telefone> telefones = this.listaTelefonica.get(nome);
 
-        if (telefones == null) {
+        if (buscar(nome) == null) {
             telefones = new HashSet<>();
         }
 
-        if (telefones.contains(telefone)){
+        if (buscar(nome) != null) {
             throw new IllegalArgumentException("Telefone jah existente para essa pessoa");
         }
 

@@ -8,14 +8,14 @@ public class ListaTelefonica {
     private HashMap<String, ArrayList<Telefone>> listaTelefonica;
 
     public ListaTelefonica() {
-        this.listaTelefonica = new HashMap<String, ArrayList<Telefone>>();
+        this.listaTelefonica = new HashMap<>();
     }
 
     public void adicionarTelefone(String nome, Telefone telefone) {
 
         ArrayList<Telefone> telefones = this.listaTelefonica.get(nome);
 
-        if (telefones == null) {
+        if (buscar(nome) == null) {
             telefones = new ArrayList<>();
         }
 
@@ -24,6 +24,6 @@ public class ListaTelefonica {
     }
 
     public ArrayList<Telefone> buscar(String nome) {
-        return this.listaTelefonica.get(nome);
+        return this.listaTelefonica.getOrDefault(nome, null);
     }
 }

@@ -3,7 +3,6 @@ package status;
 public class Program {
     public static void main(String[] args) {
         PersonagemGame personagem1 = new PersonagemGame();
-
         personagem1.setNome("Sonic");
         personagem1.setSaudeAtual(0);
 

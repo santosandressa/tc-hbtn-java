@@ -22,11 +22,6 @@ public class ContaBancariaBasica {
         return saldo;
     }
 
-    public double getTaxaJurosAnual() {
-        return taxaJurosAnual;
-    }
-
-
     public void depositar(double valor) throws OperacaoInvalidaException {
         if (valor <= 0) {
             throw new OperacaoInvalidaException("Valor para deposito deve ser maior que 0");
@@ -50,10 +45,7 @@ public class ContaBancariaBasica {
 
         double saldoPorcentagem = saldo * taxaPorcentagem;
 
-        if (saldoPorcentagem < taxaReal) {
-            return saldoPorcentagem;
-        }
-        return taxaReal;
+        return Math.min(saldoPorcentagem, taxaReal);
     }
 
     public double calcularJurosMensal() {

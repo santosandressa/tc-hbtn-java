@@ -1,25 +1,22 @@
 package duplicados;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class NumerosDuplicados {
 
     public static TreeSet<Integer> buscar(int[] numeros) {
-
-        List<Integer> list = new ArrayList<>();
-
-        for (int numero : numeros) {
-            list.add(numero);
-        }
-
+        TreeSet<Integer> treeSet = new TreeSet<>();
         Set<Integer> numerosDuplicados = new HashSet<>();
 
-        for (int numero : list) {
-            if (Collections.frequency(list, numero) > 1) {
-                numerosDuplicados.add(numero);
+        for (int numero : numeros) {
+            if (numerosDuplicados.contains(numero)) {
+                treeSet.add(numero);
             }
+            numerosDuplicados.add(numero);
         }
 
-        return new TreeSet<>(numerosDuplicados);
+        return treeSet;
     }
 }

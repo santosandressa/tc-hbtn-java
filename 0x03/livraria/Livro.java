@@ -48,7 +48,7 @@ public class Livro {
     }
 
     public void setTitulo(String titulo) throws LivroInvalidoException {
-        if (titulo.length() < 3 || titulo.isEmpty()) {
+        if (titulo.length() < 3) {
             throw new LivroInvalidoException("Titulo de livro invalido");
         }
         this.titulo = titulo;

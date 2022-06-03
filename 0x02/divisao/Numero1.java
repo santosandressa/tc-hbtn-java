@@ -1,5 +1,4 @@
-class
-Numero1 {
+class Numero1 {
     public static void dividir(int a, int b) {
         int resultado = 0;
         try {
